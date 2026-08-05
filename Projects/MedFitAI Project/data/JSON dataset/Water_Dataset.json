@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "General Recommendation",
+    "question": "How much water should a healthy adult drink daily?",
+    "answer": "A healthy adult generally requires about 30–35 milliliters of water per kilogram of body weight per day. Individual requirements may vary depending on age, activity level, climate, and health conditions.",
+    "keywords": ["water", "hydration", "daily intake", "adult"]
+  },
+  {
+    "id": 2,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Calculation Rule",
+    "question": "How is daily water intake estimated?",
+    "answer": "Daily water intake can be estimated by multiplying body weight in kilograms by 35 milliliters. Additional water may be required during exercise or in hot weather.",
+    "keywords": ["water calculation", "body weight", "hydration"]
+  },
+  {
+    "id": 3,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Low Activity",
+    "question": "How much extra water is needed for low physical activity?",
+    "answer": "People with low physical activity generally do not require significant additional water beyond their daily baseline requirement unless exposed to heat.",
+    "keywords": ["low activity", "water", "hydration"]
+  },
+  {
+    "id": 4,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Moderate Activity",
+    "question": "How much extra water is recommended for moderate exercise?",
+    "answer": "Moderate exercise for about 30 to 60 minutes usually requires an additional 500 to 750 milliliters of water depending on sweat loss.",
+    "keywords": ["moderate exercise", "hydration", "water"]
+  },
+  {
+    "id": 5,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "High Activity",
+    "question": "How much extra water is required during intense exercise?",
+    "answer": "Intense physical activity lasting more than one hour may require an additional 1 to 1.5 liters of water along with electrolyte replacement if sweating is excessive.",
+    "keywords": ["exercise", "sports", "hydration", "water"]
+  },
+  {
+    "id": 6,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Hot Climate",
+    "question": "How does hot weather affect water requirements?",
+    "answer": "Hot weather increases sweating and fluid loss. Drinking an additional 500 milliliters to 1 liter of water throughout the day is commonly recommended.",
+    "keywords": ["hot weather", "summer", "hydration"]
+  },
+  {
+    "id": 7,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Cold Climate",
+    "question": "Should water intake decrease during winter?",
+    "answer": "No. Hydration remains important during cold weather because fluid loss still occurs through breathing and urine, even when thirst is reduced.",
+    "keywords": ["winter", "cold climate", "hydration"]
+  },
+  {
+    "id": 8,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Signs of Dehydration",
+    "question": "What are common signs of dehydration?",
+    "answer": "Common signs include thirst, dry mouth, dark-colored urine, dizziness, headache, fatigue, and reduced urine output.",
+    "keywords": ["dehydration", "symptoms", "water"]
+  },
+  {
+    "id": 9,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Hydration Tips",
+    "question": "What are some healthy hydration habits?",
+    "answer": "Drink water regularly throughout the day, carry a reusable water bottle, consume fruits with high water content, and increase intake during exercise or hot weather.",
+    "keywords": ["hydration tips", "healthy habits", "water"]
+  },
+  {
+    "id": 10,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Medical Advice",
+    "question": "When should someone consult a healthcare professional about hydration?",
+    "answer": "Persistent dehydration, repeated vomiting, diarrhea, kidney disease, heart disease, or symptoms such as confusion or fainting require medical evaluation.",
+    "keywords": ["doctor", "hydration", "medical advice"]
+  },
+  {
+    "id": 11,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Morning Hydration",
+    "question": "Is drinking water after waking up beneficial?",
+    "answer": "Drinking one or two glasses of water after waking up helps replace fluids lost overnight and supports normal body functions.",
+    "keywords": ["morning", "water", "hydration"]
+  },
+  {
+    "id": 12,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Before Exercise",
+    "question": "Should water be consumed before exercise?",
+    "answer": "Yes. Drinking approximately 400 to 600 milliliters of water 2 to 3 hours before exercise helps begin physical activity in a well-hydrated state.",
+    "keywords": ["exercise", "before workout", "hydration"]
+  },
+  {
+    "id": 13,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "During Exercise",
+    "question": "How much water should be consumed during exercise?",
+    "answer": "Drink about 150 to 250 milliliters every 15 to 20 minutes during prolonged exercise, depending on sweat loss and weather conditions.",
+    "keywords": ["exercise", "sports", "water intake"]
+  },
+  {
+    "id": 14,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "After Exercise",
+    "question": "Why is hydration important after exercise?",
+    "answer": "Hydration after exercise helps replace fluids lost through sweat, supports recovery, and maintains normal body temperature.",
+    "keywords": ["recovery", "exercise", "hydration"]
+  },
+  {
+    "id": 15,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Water and Digestion",
+    "question": "Does drinking water support digestion?",
+    "answer": "Yes. Adequate water intake supports digestion, nutrient absorption, and normal bowel function.",
+    "keywords": ["digestion", "water", "health"]
+  },
+  {
+    "id": 16,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Urine Color",
+    "question": "Can urine color indicate hydration status?",
+    "answer": "Pale yellow urine generally indicates good hydration, while dark yellow urine may suggest dehydration.",
+    "keywords": ["urine", "hydration", "dehydration"]
+  },
+  {
+    "id": 17,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Water and Skin",
+    "question": "Does drinking water improve skin health?",
+    "answer": "Proper hydration helps maintain normal skin function and elasticity, although skin health also depends on nutrition and overall health.",
+    "keywords": ["skin", "hydration", "water"]
+  },
+  {
+    "id": 18,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Children",
+    "question": "Do children require adequate hydration?",
+    "answer": "Yes. Children require regular fluid intake throughout the day because they may not recognize thirst early enough.",
+    "keywords": ["children", "hydration", "water"]
+  },
+  {
+    "id": 19,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Older Adults",
+    "question": "Why should older adults pay attention to hydration?",
+    "answer": "Older adults often experience reduced thirst sensation, making regular water intake important to prevent dehydration.",
+    "keywords": ["elderly", "hydration", "water"]
+  },
+  {
+    "id": 20,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Hydration Reminder",
+    "question": "What are good habits for staying hydrated?",
+    "answer": "Drink water at regular intervals, carry a reusable water bottle, and increase intake during physical activity or hot weather.",
+    "keywords": ["hydration", "healthy habits"]
+  },
+  {
+    "id": 21,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Headache",
+    "question": "Can dehydration cause headaches?",
+    "answer": "Yes. Mild dehydration may contribute to headaches, fatigue, and reduced concentration in some individuals.",
+    "keywords": ["headache", "dehydration"]
+  },
+  {
+    "id": 22,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Fatigue",
+    "question": "Can dehydration lead to fatigue?",
+    "answer": "Yes. Inadequate fluid intake may reduce physical and mental performance, leading to tiredness and fatigue.",
+    "keywords": ["fatigue", "hydration"]
+  },
+  {
+    "id": 23,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Kidney Health",
+    "question": "How does hydration support kidney health?",
+    "answer": "Adequate water intake helps the kidneys remove waste products and supports normal urinary function.",
+    "keywords": ["kidney", "water", "hydration"]
+  },
+  {
+    "id": 24,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Summer",
+    "question": "Should water intake increase during summer?",
+    "answer": "Yes. Hot weather increases sweating, so additional water is generally needed to replace fluid losses.",
+    "keywords": ["summer", "hydration"]
+  },
+  {
+    "id": 25,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Sports Drinks",
+    "question": "When are sports drinks useful?",
+    "answer": "Sports drinks may be beneficial during prolonged intense exercise lasting more than one hour because they provide electrolytes and carbohydrates.",
+    "keywords": ["sports drink", "electrolytes"]
+  },
+  {
+    "id": 26,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Coffee",
+    "question": "Does coffee count toward daily fluid intake?",
+    "answer": "Coffee contributes to total fluid intake, but plain water should remain the primary source of hydration.",
+    "keywords": ["coffee", "hydration"]
+  },
+  {
+    "id": 27,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Tea",
+    "question": "Does tea help with hydration?",
+    "answer": "Yes. Tea contributes to daily fluid intake, although drinking sufficient plain water is still recommended.",
+    "keywords": ["tea", "water"]
+  },
+  {
+    "id": 28,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Water Bottle",
+    "question": "Why carry a reusable water bottle?",
+    "answer": "Keeping a reusable water bottle nearby encourages regular hydration throughout the day.",
+    "keywords": ["water bottle", "hydration"]
+  },
+  {
+    "id": 29,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Water-Rich Foods",
+    "question": "Can foods contribute to hydration?",
+    "answer": "Yes. Fruits and vegetables such as watermelon, cucumber, oranges, and tomatoes contain high amounts of water and support hydration.",
+    "keywords": ["fruits", "vegetables", "hydration"]
+  },
+  {
+    "id": 30,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Thirst",
+    "question": "Should you wait until you feel thirsty to drink water?",
+    "answer": "No. Thirst is often a late sign of dehydration. Drinking water regularly throughout the day is recommended.",
+    "keywords": ["thirst", "hydration"]
+  },
+  {
+    "id": 31,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Brain Function",
+    "question": "Does hydration affect concentration?",
+    "answer": "Yes. Proper hydration supports concentration, alertness, and normal cognitive function.",
+    "keywords": ["brain", "concentration", "hydration"]
+  },
+  {
+    "id": 32,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Muscle Function",
+    "question": "Why is hydration important for muscles?",
+    "answer": "Adequate hydration supports muscle function and may reduce the risk of muscle cramps during prolonged activity.",
+    "keywords": ["muscle", "exercise", "water"]
+  },
+  {
+    "id": 33,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Travel",
+    "question": "Should travelers drink extra water?",
+    "answer": "Long-distance travel and air travel may increase fluid needs due to dry cabin air. Drinking water regularly is recommended.",
+    "keywords": ["travel", "hydration"]
+  },
+  {
+    "id": 34,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Sleep",
+    "question": "Can dehydration affect sleep quality?",
+    "answer": "Severe dehydration may contribute to discomfort and affect sleep. Maintaining adequate hydration throughout the day is beneficial.",
+    "keywords": ["sleep", "water"]
+  },
+  {
+    "id": 35,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Electrolytes",
+    "question": "Why are electrolytes important during heavy sweating?",
+    "answer": "Electrolytes help maintain fluid balance, muscle function, and nerve activity during prolonged sweating.",
+    "keywords": ["electrolytes", "sports"]
+  },
+  {
+    "id": 36,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Illness",
+    "question": "Should water intake increase during fever?",
+    "answer": "Fever can increase fluid loss. Drinking adequate water helps replace fluids, but persistent illness should be evaluated by a healthcare professional.",
+    "keywords": ["fever", "hydration"]
+  },
+  {
+    "id": 37,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Workplace",
+    "question": "How can office workers stay hydrated?",
+    "answer": "Keep a water bottle at your desk, take regular hydration breaks, and drink water before feeling thirsty.",
+    "keywords": ["office", "hydration"]
+  },
+  {
+    "id": 38,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Water Timing",
+    "question": "Is it better to drink water all at once or throughout the day?",
+    "answer": "Drinking water consistently throughout the day is generally more effective than consuming large amounts at one time.",
+    "keywords": ["water timing", "hydration"]
+  },
+  {
+    "id": 39,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Healthy Lifestyle",
+    "question": "Why is hydration considered part of a healthy lifestyle?",
+    "answer": "Proper hydration supports temperature regulation, nutrient transport, physical performance, and overall well-being.",
+    "keywords": ["healthy lifestyle", "water"]
+  },
+  {
+    "id": 40,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Medical Consultation",
+    "question": "When should someone seek medical advice about hydration?",
+    "answer": "Seek medical attention if dehydration symptoms are severe, persistent, or associated with confusion, fainting, persistent vomiting, severe diarrhea, or underlying medical conditions.",
+    "keywords": ["doctor", "dehydration", "medical advice"]
+  },
+  {
+    "id": 41,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Humidity",
+    "question": "Does humidity affect water requirements?",
+    "answer": "High humidity increases sweating and may increase daily water requirements due to greater fluid loss.",
+    "keywords": ["humidity", "hot weather", "hydration"]
+  },
+  {
+    "id": 42,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "High Altitude",
+    "question": "Why should people drink more water at high altitude?",
+    "answer": "High-altitude environments increase fluid loss through breathing, making adequate hydration especially important.",
+    "keywords": ["altitude", "mountains", "hydration"]
+  },
+  {
+    "id": 43,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Athletes",
+    "question": "Why do athletes require additional water?",
+    "answer": "Athletes lose more fluids through sweating and therefore generally require higher daily water intake than sedentary individuals.",
+    "keywords": ["athlete", "sports", "hydration"]
+  },
+  {
+    "id": 44,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Sweating",
+    "question": "How does sweating affect hydration?",
+    "answer": "Sweating removes water and electrolytes from the body, making fluid replacement necessary to maintain hydration.",
+    "keywords": ["sweat", "exercise", "hydration"]
+  },
+  {
+    "id": 45,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Weight Loss",
+    "question": "Can drinking water support weight management?",
+    "answer": "Drinking water before meals may help control appetite and supports healthy weight-management habits when combined with a balanced diet.",
+    "keywords": ["weight loss", "water", "diet"]
+  },
+  {
+    "id": 46,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Meal Time",
+    "question": "Should water be consumed with meals?",
+    "answer": "Yes. Drinking moderate amounts of water with meals is generally safe and supports digestion.",
+    "keywords": ["meals", "digestion", "water"]
+  },
+  {
+    "id": 47,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Sugary Drinks",
+    "question": "Can sugary drinks replace water?",
+    "answer": "Sugary beverages contribute to fluid intake but should not replace plain water as the primary source of hydration.",
+    "keywords": ["soft drinks", "hydration"]
+  },
+  {
+    "id": 48,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Energy Drinks",
+    "question": "Are energy drinks good for hydration?",
+    "answer": "Energy drinks are not recommended as the primary hydration source because they often contain high amounts of caffeine and sugar.",
+    "keywords": ["energy drink", "caffeine"]
+  },
+  {
+    "id": 49,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Fruit Juice",
+    "question": "Does fruit juice count toward hydration?",
+    "answer": "Fruit juice contributes to fluid intake but should be consumed in moderation due to its natural sugar content.",
+    "keywords": ["juice", "hydration"]
+  },
+  {
+    "id": 50,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Electrolyte Drinks",
+    "question": "When should electrolyte drinks be considered?",
+    "answer": "Electrolyte drinks may be useful after prolonged heavy sweating, endurance sports, or significant fluid loss.",
+    "keywords": ["electrolytes", "sports drink"]
+  },
+  {
+    "id": 51,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Hydration Schedule",
+    "question": "What is a simple daily hydration schedule?",
+    "answer": "Drink water after waking up, before meals, during exercise, after exercise, and regularly throughout the day.",
+    "keywords": ["schedule", "hydration"]
+  },
+  {
+    "id": 52,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Water Temperature",
+    "question": "Is cold water better than room-temperature water?",
+    "answer": "Both are effective for hydration. The best choice depends on personal preference and comfort.",
+    "keywords": ["cold water", "room temperature"]
+  },
+  {
+    "id": 53,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Constipation",
+    "question": "Can adequate hydration help prevent constipation?",
+    "answer": "Yes. Drinking enough water along with consuming sufficient dietary fiber supports healthy bowel movements.",
+    "keywords": ["constipation", "digestion"]
+  },
+  {
+    "id": 54,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Water During Work",
+    "question": "Why should office workers drink water regularly?",
+    "answer": "Regular hydration helps maintain concentration, reduces fatigue, and supports overall productivity.",
+    "keywords": ["office", "productivity"]
+  },
+  {
+    "id": 55,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Urine Frequency",
+    "question": "Does drinking more water increase urination?",
+    "answer": "Yes. Increased water intake usually leads to more frequent urination, which is a normal physiological response.",
+    "keywords": ["urination", "water"]
+  },
+  {
+    "id": 56,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Overhydration",
+    "question": "Can drinking too much water be harmful?",
+    "answer": "Yes. Excessive water intake in a short period may lead to water intoxication or hyponatremia, although this is uncommon.",
+    "keywords": ["overhydration", "hyponatremia"]
+  },
+  {
+    "id": 57,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Hyponatremia",
+    "question": "What is hyponatremia?",
+    "answer": "Hyponatremia is a condition in which blood sodium levels become abnormally low, sometimes due to excessive water intake.",
+    "keywords": ["hyponatremia", "sodium"]
+  },
+  {
+    "id": 58,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Pregnancy",
+    "question": "Why is hydration important during pregnancy?",
+    "answer": "Adequate hydration supports blood volume, amniotic fluid levels, and normal body functions during pregnancy.",
+    "keywords": ["pregnancy", "hydration"]
+  },
+  {
+    "id": 59,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Breastfeeding",
+    "question": "Do breastfeeding mothers need more water?",
+    "answer": "Yes. Breastfeeding increases fluid requirements because water is used in breast milk production.",
+    "keywords": ["breastfeeding", "hydration"]
+  },
+  {
+    "id": 60,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Kidney Stones",
+    "question": "Can hydration reduce the risk of kidney stones?",
+    "answer": "Maintaining adequate hydration may help reduce the risk of certain types of kidney stones by diluting urine.",
+    "keywords": ["kidney stones", "water"]
+  },
+  {
+    "id": 61,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Running",
+    "question": "How should runners stay hydrated?",
+    "answer": "Runners should hydrate before, during, and after running based on exercise duration, weather conditions, and sweat loss.",
+    "keywords": ["running", "sports"]
+  },
+  {
+    "id": 62,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Cycling",
+    "question": "Why is hydration important for cyclists?",
+    "answer": "Cyclists lose fluids through prolonged exercise and should replace water regularly during rides.",
+    "keywords": ["cycling", "exercise"]
+  },
+  {
+    "id": 63,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Gym Workouts",
+    "question": "How much water should be consumed during gym workouts?",
+    "answer": "Drink small amounts regularly before, during, and after workouts to replace fluid losses.",
+    "keywords": ["gym", "exercise"]
+  },
+  {
+    "id": 64,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Walking",
+    "question": "Should people drink water before walking?",
+    "answer": "Yes. Drinking water before walking helps begin physical activity in a hydrated state.",
+    "keywords": ["walking", "hydration"]
+  },
+  {
+    "id": 65,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Hiking",
+    "question": "Why is extra water needed during hiking?",
+    "answer": "Hiking often involves prolonged activity and environmental exposure, increasing water requirements.",
+    "keywords": ["hiking", "outdoor"]
+  },
+  {
+    "id": 66,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "School",
+    "question": "Why should students stay hydrated?",
+    "answer": "Proper hydration supports concentration, learning, and physical performance during school activities.",
+    "keywords": ["students", "school"]
+  },
+  {
+    "id": 67,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Exams",
+    "question": "Can hydration improve concentration during exams?",
+    "answer": "Maintaining adequate hydration supports alertness and concentration, which may benefit learning activities.",
+    "keywords": ["exam", "brain"]
+  },
+  {
+    "id": 68,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Workouts",
+    "question": "Why should hydration continue after workouts?",
+    "answer": "Post-workout hydration replaces fluids lost through sweat and supports recovery.",
+    "keywords": ["recovery", "exercise"]
+  },
+  {
+    "id": 69,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Hydration Reminder Apps",
+    "question": "Can reminder apps help maintain hydration?",
+    "answer": "Yes. Hydration reminder applications can encourage consistent water intake throughout the day.",
+    "keywords": ["app", "reminder"]
+  },
+  {
+    "id": 70,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Reusable Bottles",
+    "question": "Why are reusable bottles recommended?",
+    "answer": "Reusable water bottles promote regular hydration while reducing plastic waste.",
+    "keywords": ["bottle", "environment"]
+  },
+  {
+    "id": 71,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Healthy Lifestyle",
+    "question": "How does hydration support overall health?",
+    "answer": "Adequate hydration supports circulation, digestion, temperature regulation, and nutrient transport.",
+    "keywords": ["health", "water"]
+  },
+  {
+    "id": 72,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Sleep",
+    "question": "Should people drink water before sleeping?",
+    "answer": "A moderate amount of water before bedtime is generally acceptable, but excessive intake may interrupt sleep due to frequent urination.",
+    "keywords": ["sleep", "night"]
+  },
+  {
+    "id": 73,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Balanced Hydration",
+    "question": "What is balanced hydration?",
+    "answer": "Balanced hydration means consuming enough fluids to meet the body's needs without excessive or insufficient intake.",
+    "keywords": ["balance", "hydration"]
+  },
+  {
+    "id": 74,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Travel",
+    "question": "How can travelers avoid dehydration?",
+    "answer": "Carry a refillable bottle, drink water regularly, and increase intake during long journeys or hot weather.",
+    "keywords": ["travel", "water"]
+  },
+  {
+    "id": 75,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Fruits",
+    "question": "Which fruits help maintain hydration?",
+    "answer": "Watermelon, oranges, strawberries, and cantaloupe contain high amounts of water and contribute to hydration.",
+    "keywords": ["fruit", "hydration"]
+  },
+  {
+    "id": 76,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Vegetables",
+    "question": "Which vegetables contain high amounts of water?",
+    "answer": "Cucumber, lettuce, celery, tomatoes, and zucchini contain large amounts of water and support hydration.",
+    "keywords": ["vegetables", "water"]
+  },
+  {
+    "id": 77,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Daily Habit",
+    "question": "What is an easy habit to improve hydration?",
+    "answer": "Drink a glass of water with every meal and keep a water bottle nearby throughout the day.",
+    "keywords": ["habit", "daily"]
+  },
+  {
+    "id": 78,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Medical Conditions",
+    "question": "Should everyone follow the same water recommendation?",
+    "answer": "No. People with kidney disease, heart disease, or certain medical conditions may require individualized fluid recommendations from their healthcare provider.",
+    "keywords": ["medical condition", "doctor"]
+  },
+  {
+    "id": 79,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Individual Needs",
+    "question": "What factors influence daily water requirements?",
+    "answer": "Body weight, age, physical activity, climate, health conditions, and pregnancy or breastfeeding all influence daily water needs.",
+    "keywords": ["body weight", "activity", "climate"]
+  },
+  {
+    "id": 80,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Medical Advice",
+    "question": "When should someone consult a healthcare professional regarding hydration?",
+    "answer": "Seek medical advice if dehydration symptoms are severe, persistent, or if fluid intake must be restricted due to a medical condition.",
+    "keywords": ["doctor", "hydration", "consultation"]
+  },
+  {
+    "id": 81,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Body Temperature",
+    "question": "How does water help regulate body temperature?",
+    "answer": "Water helps regulate body temperature through sweating and heat dissipation, especially during physical activity and hot weather.",
+    "keywords": ["temperature", "body heat", "hydration"]
+  },
+  {
+    "id": 82,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Blood Circulation",
+    "question": "Why is water important for blood circulation?",
+    "answer": "Adequate hydration helps maintain blood volume, allowing oxygen and nutrients to be transported efficiently throughout the body.",
+    "keywords": ["blood", "circulation", "hydration"]
+  },
+  {
+    "id": 83,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Joint Health",
+    "question": "Does hydration support joint health?",
+    "answer": "Yes. Water helps lubricate joints and supports the normal function of cartilage, contributing to comfortable movement.",
+    "keywords": ["joints", "cartilage", "water"]
+  },
+  {
+    "id": 84,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Immune Health",
+    "question": "Does hydration support the immune system?",
+    "answer": "Adequate hydration supports overall body functions, including the normal functioning of the immune system and nutrient transport.",
+    "keywords": ["immune system", "health", "hydration"]
+  },
+  {
+    "id": 85,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Healthy Skin",
+    "question": "How does water contribute to healthy skin?",
+    "answer": "Maintaining good hydration helps preserve skin moisture and supports normal skin function as part of a healthy lifestyle.",
+    "keywords": ["skin", "hydration", "beauty"]
+  },
+  {
+    "id": 86,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Balanced Diet",
+    "question": "Does food contribute to daily water intake?",
+    "answer": "Yes. Fruits, vegetables, soups, and other water-rich foods contribute to total daily fluid intake along with beverages.",
+    "keywords": ["diet", "food", "hydration"]
+  },
+  {
+    "id": 87,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Hydration Monitoring",
+    "question": "How can someone monitor their hydration status?",
+    "answer": "Hydration can be monitored by observing thirst, urine color, urine frequency, energy levels, and overall well-being.",
+    "keywords": ["monitor", "urine", "hydration"]
+  },
+  {
+    "id": 88,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Daily Routine",
+    "question": "What is an effective way to remember to drink water?",
+    "answer": "Setting reminders, carrying a reusable bottle, and drinking water with meals are simple ways to maintain regular hydration.",
+    "keywords": ["reminder", "routine", "water"]
+  },
+  {
+    "id": 89,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Fluid Loss",
+    "question": "Besides sweating, how does the body lose water?",
+    "answer": "The body loses water through breathing, urination, bowel movements, and sweating throughout the day.",
+    "keywords": ["fluid loss", "body", "water"]
+  },
+  {
+    "id": 90,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Healthy Hydration",
+    "question": "What are the benefits of staying adequately hydrated?",
+    "answer": "Adequate hydration supports physical performance, mental alertness, digestion, kidney function, temperature regulation, and overall health.",
+    "keywords": ["benefits", "hydration", "health"]
+  },
+  {
+    "id": 91,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Exercise Recovery",
+    "question": "Why is hydration important after intense physical activity?",
+    "answer": "Replacing fluids after exercise supports recovery, restores fluid balance, and helps maintain normal muscle function.",
+    "keywords": ["exercise", "recovery", "hydration"]
+  },
+  {
+    "id": 92,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Heat Exhaustion Prevention",
+    "question": "Can proper hydration help reduce the risk of heat-related illness?",
+    "answer": "Maintaining adequate hydration supports the body's cooling mechanisms and may help reduce the risk of heat exhaustion during hot weather.",
+    "keywords": ["heat", "summer", "prevention"]
+  },
+  {
+    "id": 93,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Mental Performance",
+    "question": "Can dehydration affect mental performance?",
+    "answer": "Yes. Even mild dehydration may reduce concentration, alertness, and cognitive performance in some individuals.",
+    "keywords": ["brain", "focus", "hydration"]
+  },
+  {
+    "id": 94,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Healthy Lifestyle",
+    "question": "Why should hydration be combined with a balanced diet?",
+    "answer": "Hydration and balanced nutrition work together to support metabolism, digestion, energy production, and overall health.",
+    "keywords": ["nutrition", "healthy lifestyle"]
+  },
+  {
+    "id": 95,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Daily Goal",
+    "question": "Should daily water intake be adjusted based on personal needs?",
+    "answer": "Yes. Individual water requirements vary depending on body weight, age, activity level, climate, and overall health.",
+    "keywords": ["daily goal", "personalized", "water"]
+  },
+  {
+    "id": 96,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Healthy Habits",
+    "question": "What are three easy habits to improve hydration?",
+    "answer": "Carry a reusable water bottle, drink water before meals, and increase fluid intake during exercise or hot weather.",
+    "keywords": ["healthy habits", "hydration"]
+  },
+  {
+    "id": 97,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Signs of Good Hydration",
+    "question": "What are signs that someone is well hydrated?",
+    "answer": "Signs of good hydration include pale yellow urine, normal energy levels, regular urination, and minimal feelings of thirst.",
+    "keywords": ["hydration", "urine", "health"]
+  },
+  {
+    "id": 98,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Long-Term Benefits",
+    "question": "What are the long-term benefits of maintaining proper hydration?",
+    "answer": "Consistent hydration supports kidney health, physical performance, digestion, circulation, temperature regulation, and overall well-being.",
+    "keywords": ["long-term", "benefits", "water"]
+  },
+  {
+    "id": 99,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Hydration Awareness",
+    "question": "Why is hydration awareness important?",
+    "answer": "Understanding personal hydration needs helps prevent dehydration and supports healthy daily habits throughout life.",
+    "keywords": ["awareness", "hydration", "health"]
+  },
+  {
+    "id": 100,
+    "dataset": "Water_Intake_Dataset",
+    "category": "Hydration",
+    "subtopic": "Professional Advice",
+    "question": "When should someone seek professional advice about water intake?",
+    "answer": "Consult a qualified healthcare professional if you have kidney disease, heart disease, persistent dehydration, fluid restrictions, or other medical conditions requiring individualized hydration recommendations.",
+    "keywords": ["doctor", "consultation", "hydration", "medical advice"]
+  }
+]

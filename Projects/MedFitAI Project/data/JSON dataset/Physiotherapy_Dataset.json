@@ -1,0 +1,1922 @@
+[
+  {
+    "id":1,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Neck Exercises",
+    "subtopic":"Neck Stretching",
+    "question":"What are neck stretching exercises and why are they useful?",
+    "answer":"Neck stretching exercises improve flexibility, reduce muscle stiffness, and help relieve mild neck discomfort caused by poor posture or muscle tension. They involve gentle movements such as side bends, rotations, and forward stretches to improve neck mobility.",
+    "keywords":[
+      "neck stretching",
+      "neck mobility",
+      "physiotherapy",
+      "flexibility"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Posture Correction",
+      "Neck Pain Management",
+      "Mobility Exercises"
+    ],
+    "precautions":"Perform stretches slowly and avoid sudden movements or overstretching that may increase pain.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for persistent neck pain.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":2,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Neck Exercises",
+    "subtopic":"Neck Rotation Exercise",
+    "question":"How does neck rotation exercise help in physiotherapy?",
+    "answer":"Neck rotation exercises improve the range of motion of the cervical spine and reduce stiffness. The exercise involves slowly turning the head from side to side while maintaining proper posture. It is commonly used in rehabilitation programs for neck mobility improvement.",
+    "keywords":[
+      "neck rotation",
+      "cervical mobility",
+      "neck exercise",
+      "rehabilitation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Cervical Spine",
+      "Neck Rehabilitation",
+      "Flexibility Training"
+    ],
+    "precautions":"Avoid forcing rotation beyond a comfortable range and stop if sharp pain occurs.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":3,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Neck Exercises",
+    "subtopic":"Chin Tuck Exercise",
+    "question":"What is a chin tuck exercise and how does it benefit the neck?",
+    "answer":"Chin tuck exercises strengthen deep neck muscles and help improve head and neck alignment. They are commonly recommended for people with forward head posture caused by prolonged computer or mobile usage. The exercise supports better posture and reduces neck strain.",
+    "keywords":[
+      "chin tuck",
+      "neck posture",
+      "cervical strengthening",
+      "physiotherapy"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Posture Correction",
+      "Neck Strengthening",
+      "Spinal Alignment"
+    ],
+    "precautions":"Keep movements controlled and avoid pushing the head forcefully backward.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":4,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Neck Exercises",
+    "subtopic":"Neck Isometric Exercise",
+    "question":"What are neck isometric exercises used for?",
+    "answer":"Neck isometric exercises strengthen neck muscles without requiring large movements. They involve applying gentle resistance using the hand while keeping the head stable. These exercises help improve neck strength, stability, and support during rehabilitation.",
+    "keywords":[
+      "neck isometric",
+      "neck strengthening",
+      "rehabilitation",
+      "muscle stability"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Neck Strength",
+      "Physiotherapy",
+      "Cervical Rehabilitation"
+    ],
+    "precautions":"Use gentle resistance and avoid excessive pressure on the neck.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional before starting rehabilitation exercises.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":5,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Neck Exercises",
+    "subtopic":"Neck Flexion Exercise",
+    "question":"What is neck flexion exercise and how does it help?",
+    "answer":"Neck flexion exercises involve gently moving the chin toward the chest to improve forward neck movement and flexibility. They help reduce stiffness, improve cervical mobility, and support recovery from mild neck muscle tightness.",
+    "keywords":[
+      "neck flexion",
+      "cervical exercise",
+      "neck mobility",
+      "physiotherapy"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Neck Stretching",
+      "Mobility Training",
+      "Pain Management"
+    ],
+    "precautions":"Perform slowly and avoid excessive bending if discomfort increases.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper evaluation.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":6,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Neck Exercises",
+    "subtopic":"Neck Side Bending Exercise",
+    "question":"What is neck side bending exercise and how does it help?",
+    "answer":"Neck side bending exercises improve flexibility of muscles on the sides of the neck. The exercise involves gently tilting the head toward each shoulder to reduce stiffness and improve cervical movement. It is commonly used in physiotherapy for neck mobility improvement.",
+    "keywords":[
+      "neck side bending",
+      "neck flexibility",
+      "cervical mobility",
+      "physiotherapy"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Neck Stretching",
+      "Mobility Exercises",
+      "Pain Management"
+    ],
+    "precautions":"Perform movements slowly and avoid forcing the neck beyond a comfortable range.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for persistent neck discomfort.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":7,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Neck Exercises",
+    "subtopic":"Neck Strengthening Exercise",
+    "question":"Why are neck strengthening exercises important in rehabilitation?",
+    "answer":"Neck strengthening exercises improve muscle support around the cervical spine and help maintain proper head posture. They are useful for improving stability, reducing muscle fatigue, and supporting recovery from neck weakness or strain.",
+    "keywords":[
+      "neck strengthening",
+      "cervical muscles",
+      "rehabilitation",
+      "neck stability"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Neck Rehabilitation",
+      "Posture Correction",
+      "Muscle Strength"
+    ],
+    "precautions":"Start with low resistance and increase intensity gradually under proper guidance.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional before advanced exercises.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":8,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Neck Exercises",
+    "subtopic":"Upper Trapezius Stretch",
+    "question":"How does upper trapezius stretching help neck health?",
+    "answer":"Upper trapezius stretching helps relax muscles connecting the neck and shoulders. It can reduce muscle tightness caused by stress, poor posture, or prolonged sitting. The exercise improves flexibility and supports better neck and shoulder movement.",
+    "keywords":[
+      "upper trapezius stretch",
+      "neck tension",
+      "shoulder mobility",
+      "stretching"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Shoulder Rehab",
+      "Posture Correction",
+      "Neck Pain Relief"
+    ],
+    "precautions":"Stretch gently and avoid bouncing movements during the exercise.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":9,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Neck Exercises",
+    "subtopic":"Cervical Retraction Exercise",
+    "question":"What is cervical retraction exercise and why is it performed?",
+    "answer":"Cervical retraction exercises help correct forward head posture by strengthening deep neck muscles. The movement involves gently moving the head backward while keeping the eyes level. It improves spinal alignment and reduces strain on neck muscles.",
+    "keywords":[
+      "cervical retraction",
+      "forward head posture",
+      "neck alignment",
+      "physiotherapy"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Posture Correction",
+      "Neck Strengthening",
+      "Spinal Health"
+    ],
+    "precautions":"Avoid excessive backward movement and perform exercises with controlled posture.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper evaluation.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":10,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Neck Exercises",
+    "subtopic":"Neck Relaxation Exercise",
+    "question":"What are neck relaxation exercises and when are they useful?",
+    "answer":"Neck relaxation exercises use gentle movements and breathing techniques to reduce muscle tension and stiffness. They are useful for people experiencing discomfort from stress, prolonged sitting, or muscle fatigue. These exercises promote relaxation and improve neck comfort.",
+    "keywords":[
+      "neck relaxation",
+      "muscle tension",
+      "stress relief",
+      "neck mobility"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Stress Management",
+      "Neck Stretching",
+      "Mobility Exercises"
+    ],
+    "precautions":"Avoid exercises that increase pain or cause dizziness.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for ongoing symptoms.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":11,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Back Exercises",
+    "subtopic":"Cat Cow Stretch",
+    "question":"What is the cat cow stretch and how does it help the back?",
+    "answer":"The cat cow stretch is a gentle spinal mobility exercise that improves flexibility and reduces stiffness in the back. It involves alternating between arching and rounding the spine, helping improve spinal movement and relaxation of back muscles.",
+    "keywords":[
+      "cat cow stretch",
+      "spinal mobility",
+      "back exercise",
+      "flexibility"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Back Rehabilitation",
+      "Spinal Health",
+      "Mobility Exercises"
+    ],
+    "precautions":"Perform movements slowly and avoid excessive spinal bending if pain increases.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for persistent back problems.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":12,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Back Exercises",
+    "subtopic":"Bridge Exercise",
+    "question":"How does the bridge exercise help in back rehabilitation?",
+    "answer":"The bridge exercise strengthens lower back, glute, and core muscles that support spinal stability. It helps improve posture, reduce muscle weakness, and enhance functional movement. It is commonly included in physiotherapy programs for lower back strengthening.",
+    "keywords":[
+      "bridge exercise",
+      "lower back strength",
+      "core stability",
+      "rehabilitation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Core Strengthening",
+      "Back Pain Management",
+      "Physiotherapy"
+    ],
+    "precautions":"Avoid excessive arching of the back and perform controlled movements.",
+    "consultation":"Consult a qualified physiotherapist before starting exercises for back pain.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":13,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Back Exercises",
+    "subtopic":"Child's Pose Stretch",
+    "question":"What are the benefits of child's pose stretch for the back?",
+    "answer":"Child's pose is a gentle stretching exercise that relaxes the lower back, improves spinal flexibility, and reduces muscle tension. It is commonly used in physiotherapy and yoga-based rehabilitation to promote relaxation and improve back mobility.",
+    "keywords":[
+      "child's pose",
+      "back stretching",
+      "spinal flexibility",
+      "relaxation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Back Mobility",
+      "Stretching",
+      "Pain Relief"
+    ],
+    "precautions":"Avoid deep stretching if it causes increased pain or discomfort.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":14,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Back Exercises",
+    "subtopic":"Pelvic Tilt Exercise",
+    "question":"What is pelvic tilt exercise and why is it used in physiotherapy?",
+    "answer":"Pelvic tilt exercises strengthen abdominal muscles and improve control of the lower back and pelvis. They help maintain proper spinal alignment, reduce stiffness, and improve core stability in individuals recovering from back discomfort.",
+    "keywords":[
+      "pelvic tilt",
+      "core stability",
+      "lower back exercise",
+      "physiotherapy"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Back Rehabilitation",
+      "Posture Correction",
+      "Core Training"
+    ],
+    "precautions":"Perform the movement gently and avoid holding excessive tension in the back.",
+    "consultation":"Consult a qualified physiotherapist for personalized exercise recommendations.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":15,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Back Exercises",
+    "subtopic":"Bird Dog Exercise",
+    "question":"How does the bird dog exercise improve back strength?",
+    "answer":"The bird dog exercise strengthens core and back muscles while improving balance and spinal stability. It involves extending opposite arms and legs while maintaining a stable spine. It is commonly used to improve posture and support lower back health.",
+    "keywords":[
+      "bird dog exercise",
+      "core stability",
+      "back strengthening",
+      "balance"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Core Exercises",
+      "Spinal Stability",
+      "Back Rehabilitation"
+    ],
+    "precautions":"Maintain a neutral spine and avoid rotating the hips during the exercise.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":16,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Back Exercises",
+    "subtopic":"Lumbar Extension Exercise",
+    "question":"What is lumbar extension exercise and how does it help the back?",
+    "answer":"Lumbar extension exercises improve movement and flexibility of the lower spine. They are commonly used in physiotherapy to strengthen back muscles, improve posture, and support recovery from certain types of lower back stiffness.",
+    "keywords":[
+      "lumbar extension",
+      "lower back exercise",
+      "spinal mobility",
+      "physiotherapy"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Back Rehabilitation",
+      "Spinal Exercises",
+      "Posture Correction"
+    ],
+    "precautions":"Avoid excessive backward bending if it increases pain or discomfort.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper evaluation.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":17,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Back Exercises",
+    "subtopic":"Knee to Chest Stretch",
+    "question":"How does the knee to chest stretch benefit the lower back?",
+    "answer":"The knee to chest stretch gently stretches lower back muscles and improves spinal flexibility. It can help reduce muscle tightness, improve mobility, and provide relaxation for individuals experiencing mild lower back stiffness.",
+    "keywords":[
+      "knee to chest stretch",
+      "lower back stretch",
+      "flexibility",
+      "mobility"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Back Pain Management",
+      "Stretching",
+      "Spinal Mobility"
+    ],
+    "precautions":"Perform the stretch gently and avoid pulling the knee forcefully toward the chest.",
+    "consultation":"Consult a qualified physiotherapist for personalized exercise recommendations.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":18,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Back Exercises",
+    "subtopic":"Superman Exercise",
+    "question":"What is the superman exercise and how does it strengthen the back?",
+    "answer":"The superman exercise strengthens lower back, glute, and spinal muscles by lifting opposite arms and legs while lying on the stomach. It helps improve spinal stability, posture, and endurance of muscles supporting the back.",
+    "keywords":[
+      "superman exercise",
+      "back strengthening",
+      "spinal stability",
+      "core exercise"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Back Strengthening",
+      "Core Training",
+      "Posture Improvement"
+    ],
+    "precautions":"Avoid excessive lifting height and maintain controlled movements throughout the exercise.",
+    "consultation":"Consult a qualified physiotherapist before performing strengthening exercises with existing pain.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":19,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Back Exercises",
+    "subtopic":"Lower Back Rotation Stretch",
+    "question":"How does lower back rotation stretching improve mobility?",
+    "answer":"Lower back rotation stretches improve spinal flexibility and reduce stiffness by gently rotating the lumbar region. They help improve movement range and relaxation of muscles around the lower back and hips.",
+    "keywords":[
+      "lower back rotation",
+      "spinal flexibility",
+      "mobility exercise",
+      "stretching"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Back Mobility",
+      "Hip Mobility",
+      "Physiotherapy"
+    ],
+    "precautions":"Perform rotations slowly and avoid sudden twisting movements.",
+    "consultation":"Consult a qualified physiotherapist for proper exercise guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":20,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Back Exercises",
+    "subtopic":"Core Stabilization Exercise",
+    "question":"Why are core stabilization exercises important for back health?",
+    "answer":"Core stabilization exercises strengthen abdominal and spinal support muscles that maintain proper posture and reduce stress on the lower back. They are commonly used in physiotherapy to improve balance, stability, and functional movement.",
+    "keywords":[
+      "core stabilization",
+      "back health",
+      "spinal support",
+      "physiotherapy"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Core Strength",
+      "Back Rehabilitation",
+      "Posture Correction"
+    ],
+    "precautions":"Maintain proper breathing and avoid holding excessive tension during exercises.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":21,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Shoulder Rehab",
+    "subtopic":"Pendulum Exercise",
+    "question":"What is the pendulum exercise and how does it help shoulder rehabilitation?",
+    "answer":"The pendulum exercise is a gentle shoulder mobility exercise where the arm swings freely using body movement. It helps reduce stiffness, improve shoulder range of motion, and support recovery after shoulder injuries or surgery.",
+    "keywords":[
+      "pendulum exercise",
+      "shoulder mobility",
+      "rehabilitation",
+      "shoulder recovery"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Shoulder Injury",
+      "Joint Mobility",
+      "Physiotherapy"
+    ],
+    "precautions":"Perform gentle movements and avoid using force or heavy resistance during early recovery.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper rehabilitation guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":22,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Shoulder Rehab",
+    "subtopic":"Shoulder Flexion Exercise",
+    "question":"How does shoulder flexion exercise improve shoulder movement?",
+    "answer":"Shoulder flexion exercises improve the ability to raise the arm forward and upward. They help restore shoulder mobility, improve flexibility, and strengthen muscles involved in lifting movements during rehabilitation.",
+    "keywords":[
+      "shoulder flexion",
+      "shoulder mobility",
+      "rehabilitation",
+      "arm movement"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Shoulder Exercises",
+      "Range of Motion",
+      "Recovery"
+    ],
+    "precautions":"Avoid lifting beyond a comfortable range and stop if sharp pain occurs.",
+    "consultation":"Consult a qualified physiotherapist for personalized exercise recommendations.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":23,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Shoulder Rehab",
+    "subtopic":"Shoulder External Rotation Exercise",
+    "question":"Why are external rotation exercises important for shoulder rehabilitation?",
+    "answer":"Shoulder external rotation exercises strengthen rotator cuff muscles that stabilize the shoulder joint. They improve joint control, support recovery from shoulder injuries, and help restore normal movement patterns.",
+    "keywords":[
+      "external rotation",
+      "rotator cuff",
+      "shoulder strengthening",
+      "rehabilitation"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Rotator Cuff Rehab",
+      "Shoulder Stability",
+      "Physiotherapy"
+    ],
+    "precautions":"Use light resistance and avoid movements that increase shoulder pain.",
+    "consultation":"Consult a qualified physiotherapist before starting strengthening exercises.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":24,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Shoulder Rehab",
+    "subtopic":"Shoulder Internal Rotation Exercise",
+    "question":"What is the purpose of shoulder internal rotation exercises?",
+    "answer":"Shoulder internal rotation exercises improve strength and flexibility of muscles involved in rotating the arm inward. They are commonly used after shoulder injuries to restore movement, stability, and functional ability.",
+    "keywords":[
+      "internal rotation",
+      "shoulder rehabilitation",
+      "shoulder muscles",
+      "mobility"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Rotator Cuff",
+      "Shoulder Strength",
+      "Joint Recovery"
+    ],
+    "precautions":"Avoid excessive resistance and perform exercises with controlled movement.",
+    "consultation":"Consult a qualified physiotherapist for correct exercise progression.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":25,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Shoulder Rehab",
+    "subtopic":"Wall Climbing Exercise",
+    "question":"How does wall climbing exercise help shoulder rehabilitation?",
+    "answer":"Wall climbing exercises involve slowly moving fingers upward on a wall to improve shoulder range of motion. They help restore flexibility, reduce stiffness, and gradually improve arm elevation after shoulder injuries or limited movement.",
+    "keywords":[
+      "wall climbing exercise",
+      "shoulder mobility",
+      "range of motion",
+      "rehabilitation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Shoulder Recovery",
+      "Mobility Training",
+      "Physiotherapy"
+    ],
+    "precautions":"Move slowly and avoid pushing through severe pain or discomfort.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":26,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Shoulder Rehab",
+    "subtopic":"Scapular Retraction Exercise",
+    "question":"What is scapular retraction exercise and why is it useful?",
+    "answer":"Scapular retraction exercises strengthen muscles around the shoulder blade and improve shoulder posture. They help stabilize the shoulder joint, reduce muscle imbalance, and support recovery from shoulder injuries or poor posture.",
+    "keywords":[
+      "scapular retraction",
+      "shoulder stability",
+      "shoulder rehab",
+      "posture"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Shoulder Strengthening",
+      "Posture Correction",
+      "Rehabilitation"
+    ],
+    "precautions":"Avoid lifting the shoulders upward and focus on controlled shoulder blade movement.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":27,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Shoulder Rehab",
+    "subtopic":"Shoulder Abduction Exercise",
+    "question":"How does shoulder abduction exercise help during rehabilitation?",
+    "answer":"Shoulder abduction exercises improve the ability to move the arm away from the body. They help restore shoulder range of motion, strengthen supporting muscles, and improve functional movements after injury or surgery.",
+    "keywords":[
+      "shoulder abduction",
+      "arm movement",
+      "shoulder mobility",
+      "rehabilitation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Shoulder Recovery",
+      "Range of Motion",
+      "Physiotherapy"
+    ],
+    "precautions":"Increase movement gradually and avoid lifting the arm through painful ranges.",
+    "consultation":"Consult a qualified physiotherapist for personalized rehabilitation exercises.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":28,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Shoulder Rehab",
+    "subtopic":"Rotator Cuff Strengthening",
+    "question":"Why are rotator cuff strengthening exercises important?",
+    "answer":"Rotator cuff strengthening exercises improve shoulder stability by strengthening small muscles responsible for joint support. They help prevent recurring injuries, improve movement control, and support recovery from rotator cuff problems.",
+    "keywords":[
+      "rotator cuff",
+      "shoulder strengthening",
+      "joint stability",
+      "rehabilitation"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Shoulder Injuries",
+      "Strength Training",
+      "Sports Rehabilitation"
+    ],
+    "precautions":"Use light resistance initially and avoid exercises that cause sharp pain.",
+    "consultation":"Consult a qualified physiotherapist before progressing to resistance exercises.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":29,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Shoulder Rehab",
+    "subtopic":"Shoulder Stretching Routine",
+    "question":"How does shoulder stretching improve rehabilitation outcomes?",
+    "answer":"Shoulder stretching routines improve flexibility, reduce stiffness, and increase joint mobility. They help restore normal movement patterns after injuries and are commonly combined with strengthening exercises during shoulder rehabilitation programs.",
+    "keywords":[
+      "shoulder stretching",
+      "flexibility",
+      "mobility",
+      "rehabilitation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Shoulder Mobility",
+      "Recovery Exercises",
+      "Physiotherapy"
+    ],
+    "precautions":"Stretch gently and avoid forcing the shoulder beyond comfortable limits.",
+    "consultation":"Consult a qualified physiotherapist for proper exercise selection.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":30,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Shoulder Rehab",
+    "subtopic":"Shoulder Stability Exercise",
+    "question":"What are shoulder stability exercises and why are they performed?",
+    "answer":"Shoulder stability exercises improve control and coordination of muscles supporting the shoulder joint. They help increase joint strength, prevent instability, and improve functional activities involving pushing, pulling, and overhead movements.",
+    "keywords":[
+      "shoulder stability",
+      "joint control",
+      "shoulder rehabilitation",
+      "strength"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Rotator Cuff Rehab",
+      "Shoulder Strength",
+      "Sports Physiotherapy"
+    ],
+    "precautions":"Maintain proper form and avoid excessive loading during rehabilitation.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":31,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Knee Rehab",
+    "subtopic":"Quadriceps Strengthening Exercise",
+    "question":"Why are quadriceps strengthening exercises important for knee rehabilitation?",
+    "answer":"Quadriceps strengthening exercises improve muscle strength around the knee joint and provide better support during movement. They are commonly used after knee injuries or surgery to restore stability, improve function, and reduce stress on the knee.",
+    "keywords":[
+      "quadriceps strengthening",
+      "knee rehabilitation",
+      "knee strength",
+      "physiotherapy"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Knee Recovery",
+      "Leg Strengthening",
+      "Joint Stability"
+    ],
+    "precautions":"Perform exercises with controlled movements and avoid excessive knee loading.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper rehabilitation guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":32,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Knee Rehab",
+    "subtopic":"Straight Leg Raise Exercise",
+    "question":"How does straight leg raise exercise help knee rehabilitation?",
+    "answer":"Straight leg raise exercises strengthen the quadriceps muscles without placing excessive stress on the knee joint. They help improve knee stability, maintain muscle strength, and support recovery after knee injuries or surgery.",
+    "keywords":[
+      "straight leg raise",
+      "knee exercise",
+      "quadriceps",
+      "rehabilitation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Knee Strengthening",
+      "Post Surgery Rehab",
+      "Physiotherapy"
+    ],
+    "precautions":"Keep the knee straight and avoid lifting with uncontrolled movements.",
+    "consultation":"Consult a qualified physiotherapist before starting post-injury exercises.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":33,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Knee Rehab",
+    "subtopic":"Heel Slide Exercise",
+    "question":"What is the purpose of heel slide exercise in knee rehabilitation?",
+    "answer":"Heel slide exercises improve knee flexibility and range of motion by gently bending and straightening the knee. They are often used after injuries or surgery to reduce stiffness and restore normal knee movement.",
+    "keywords":[
+      "heel slide",
+      "knee mobility",
+      "range of motion",
+      "rehabilitation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Knee Flexibility",
+      "Joint Mobility",
+      "Recovery Exercises"
+    ],
+    "precautions":"Move slowly and avoid forcing the knee into painful positions.",
+    "consultation":"Consult a qualified physiotherapist for personalized rehabilitation exercises.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":34,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Knee Rehab",
+    "subtopic":"Hamstring Stretch",
+    "question":"How does hamstring stretching support knee rehabilitation?",
+    "answer":"Hamstring stretching improves flexibility of muscles behind the thigh that influence knee movement. It helps reduce muscle tightness, improve mobility, and support proper movement patterns during knee recovery.",
+    "keywords":[
+      "hamstring stretch",
+      "knee flexibility",
+      "leg mobility",
+      "rehabilitation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Knee Mobility",
+      "Leg Stretching",
+      "Physiotherapy"
+    ],
+    "precautions":"Avoid overstretching and maintain a comfortable stretch position.",
+    "consultation":"Consult a qualified physiotherapist for correct stretching techniques.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":35,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Knee Rehab",
+    "subtopic":"Knee Range of Motion Exercise",
+    "question":"Why are knee range of motion exercises important after injury?",
+    "answer":"Knee range of motion exercises help restore flexibility, reduce stiffness, and improve joint movement after injury or surgery. They support gradual recovery by allowing the knee to regain normal bending and straightening abilities.",
+    "keywords":[
+      "knee range of motion",
+      "knee mobility",
+      "rehabilitation",
+      "joint recovery"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Knee Rehabilitation",
+      "Mobility Training",
+      "Recovery"
+    ],
+    "precautions":"Increase movement gradually and avoid exercises that cause sharp pain.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":36,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Knee Rehab",
+    "subtopic":"Terminal Knee Extension Exercise",
+    "question":"What is terminal knee extension exercise and why is it used?",
+    "answer":"Terminal knee extension exercises strengthen muscles responsible for straightening the knee and improve joint stability. They are commonly used during knee rehabilitation to restore movement, improve quadriceps function, and support recovery after injuries.",
+    "keywords":[
+      "terminal knee extension",
+      "quadriceps",
+      "knee rehabilitation",
+      "strengthening"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Knee Strength",
+      "Joint Stability",
+      "Physiotherapy"
+    ],
+    "precautions":"Avoid locking the knee forcefully and perform controlled movements.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":37,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Knee Rehab",
+    "subtopic":"Mini Squat Exercise",
+    "question":"How do mini squats help in knee rehabilitation?",
+    "answer":"Mini squats strengthen muscles around the knee, hips, and thighs while improving functional movement. They help increase knee stability, improve balance, and prepare individuals for daily activities after knee injuries.",
+    "keywords":[
+      "mini squat",
+      "knee strengthening",
+      "leg exercise",
+      "rehabilitation"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Functional Training",
+      "Knee Stability",
+      "Strength Exercises"
+    ],
+    "precautions":"Maintain proper knee alignment and avoid excessive bending during the exercise.",
+    "consultation":"Consult a qualified physiotherapist before performing strengthening exercises after injury.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":38,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Knee Rehab",
+    "subtopic":"Patellar Mobilization Exercise",
+    "question":"What is patellar mobilization and how does it support knee recovery?",
+    "answer":"Patellar mobilization involves gentle movement of the kneecap to improve flexibility and reduce stiffness around the knee joint. It may help restore normal movement and improve comfort during rehabilitation.",
+    "keywords":[
+      "patellar mobilization",
+      "kneecap movement",
+      "knee recovery",
+      "mobility"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Knee Mobility",
+      "Joint Rehabilitation",
+      "Physiotherapy"
+    ],
+    "precautions":"Perform only gentle movements and avoid excessive pressure on the kneecap.",
+    "consultation":"Consult a qualified physiotherapist before performing joint mobilization exercises.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":39,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Knee Rehab",
+    "subtopic":"Balance Training Exercise",
+    "question":"Why is balance training included in knee rehabilitation?",
+    "answer":"Balance training improves coordination, stability, and control of the knee during movement. It helps strengthen supporting muscles and reduces the risk of future injuries by improving body awareness and joint control.",
+    "keywords":[
+      "balance training",
+      "knee stability",
+      "coordination",
+      "rehabilitation"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Knee Stability",
+      "Injury Prevention",
+      "Functional Exercises"
+    ],
+    "precautions":"Perform balance exercises in a safe environment to prevent falls.",
+    "consultation":"Consult a qualified physiotherapist for appropriate balance training progression.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":40,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Knee Rehab",
+    "subtopic":"Resistance Band Knee Exercise",
+    "question":"How do resistance band exercises help knee rehabilitation?",
+    "answer":"Resistance band exercises strengthen muscles supporting the knee while allowing controlled resistance. They improve muscle endurance, joint stability, and movement control during recovery from knee injuries.",
+    "keywords":[
+      "resistance band",
+      "knee strengthening",
+      "rehabilitation",
+      "muscle endurance"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Strength Training",
+      "Knee Recovery",
+      "Physiotherapy"
+    ],
+    "precautions":"Use appropriate resistance levels and avoid exercises that cause pain.",
+    "consultation":"Consult a qualified physiotherapist for proper exercise progression.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":41,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Hip Mobility",
+    "subtopic":"Hip Flexor Stretch",
+    "question":"What is a hip flexor stretch and how does it improve mobility?",
+    "answer":"Hip flexor stretches improve flexibility of muscles at the front of the hip. They help reduce tightness caused by prolonged sitting, improve hip movement, and support better posture and lower body mobility.",
+    "keywords":[
+      "hip flexor stretch",
+      "hip mobility",
+      "flexibility",
+      "physiotherapy"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Lower Body Mobility",
+      "Posture Correction",
+      "Stretching"
+    ],
+    "precautions":"Avoid excessive stretching and maintain a comfortable range of movement.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":42,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Hip Mobility",
+    "subtopic":"Hip Rotation Exercise",
+    "question":"How do hip rotation exercises help improve movement?",
+    "answer":"Hip rotation exercises improve flexibility and control of the hip joint. They help increase range of motion, reduce stiffness, and support functional activities such as walking, running, and squatting.",
+    "keywords":[
+      "hip rotation",
+      "hip mobility",
+      "joint flexibility",
+      "rehabilitation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Joint Mobility",
+      "Lower Body Exercise",
+      "Physiotherapy"
+    ],
+    "precautions":"Perform rotations slowly and avoid forcing the hip beyond comfortable limits.",
+    "consultation":"Consult a qualified physiotherapist for personalized exercise recommendations.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":43,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Hip Mobility",
+    "subtopic":"Glute Bridge Exercise",
+    "question":"Why is glute bridge exercise included in hip rehabilitation?",
+    "answer":"Glute bridge exercises strengthen hip and glute muscles that support pelvic stability and lower body movement. They improve hip strength, posture, and movement control during rehabilitation programs.",
+    "keywords":[
+      "glute bridge",
+      "hip strengthening",
+      "pelvic stability",
+      "rehabilitation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Hip Strength",
+      "Core Stability",
+      "Lower Body Training"
+    ],
+    "precautions":"Avoid excessive arching of the lower back and focus on controlled movement.",
+    "consultation":"Consult a qualified physiotherapist before starting rehabilitation exercises.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":44,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Hip Mobility",
+    "subtopic":"Butterfly Stretch",
+    "question":"How does butterfly stretch improve hip mobility?",
+    "answer":"The butterfly stretch targets inner thigh and hip muscles to improve flexibility and joint mobility. It helps reduce stiffness and supports better movement patterns during daily activities and exercise.",
+    "keywords":[
+      "butterfly stretch",
+      "hip flexibility",
+      "mobility exercise",
+      "stretching"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Hip Flexibility",
+      "Lower Body Mobility",
+      "Physiotherapy"
+    ],
+    "precautions":"Do not push knees downward forcefully during the stretch.",
+    "consultation":"Consult a qualified physiotherapist for proper stretching techniques.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":45,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Hip Mobility",
+    "subtopic":"Hip Abduction Exercise",
+    "question":"What is hip abduction exercise and why is it useful?",
+    "answer":"Hip abduction exercises strengthen muscles responsible for moving the leg away from the body. They improve hip stability, support balance, and help maintain proper alignment of the lower body during movement.",
+    "keywords":[
+      "hip abduction",
+      "hip strength",
+      "stability",
+      "rehabilitation"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Hip Rehabilitation",
+      "Balance Training",
+      "Lower Body Strength"
+    ],
+    "precautions":"Use controlled movements and avoid swinging the leg during exercise.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":46,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Hip Mobility",
+    "subtopic":"Hip Flexor Strengthening",
+    "question":"Why are hip flexor strengthening exercises important?",
+    "answer":"Hip flexor strengthening exercises improve muscle strength required for walking, running, and lifting movements. They support hip stability, improve lower body control, and help restore function during rehabilitation after weakness or injury.",
+    "keywords":[
+      "hip flexor strengthening",
+      "hip stability",
+      "rehabilitation",
+      "lower body strength"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Hip Rehabilitation",
+      "Strength Training",
+      "Mobility Exercises"
+    ],
+    "precautions":"Avoid excessive resistance and perform movements with proper technique.",
+    "consultation":"Consult a qualified physiotherapist for personalized rehabilitation guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":47,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Hip Mobility",
+    "subtopic":"Hip Circles Exercise",
+    "question":"How do hip circles improve hip mobility?",
+    "answer":"Hip circles are gentle mobility exercises that improve movement range and flexibility of the hip joint. They help reduce stiffness, improve coordination, and prepare the hip for daily activities or physical exercise.",
+    "keywords":[
+      "hip circles",
+      "hip mobility",
+      "joint flexibility",
+      "movement control"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Mobility Training",
+      "Warm-up Exercises",
+      "Hip Flexibility"
+    ],
+    "precautions":"Perform smooth controlled movements and avoid painful ranges of motion.",
+    "consultation":"Consult a qualified physiotherapist for proper exercise selection.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":48,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Hip Mobility",
+    "subtopic":"Clamshell Exercise",
+    "question":"What are the benefits of clamshell exercises for hip rehabilitation?",
+    "answer":"Clamshell exercises strengthen hip muscles, especially the gluteal muscles responsible for hip stability. They improve pelvic control, support proper leg alignment, and are commonly used in rehabilitation programs for hip and lower body problems.",
+    "keywords":[
+      "clamshell exercise",
+      "glute strength",
+      "hip stability",
+      "rehabilitation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Hip Strengthening",
+      "Knee Stability",
+      "Lower Body Training"
+    ],
+    "precautions":"Keep the pelvis stable and avoid rotating the body during the exercise.",
+    "consultation":"Consult a qualified physiotherapist before starting rehabilitation exercises.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":49,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Hip Mobility",
+    "subtopic":"Hip External Rotation Stretch",
+    "question":"How does hip external rotation stretching help mobility?",
+    "answer":"Hip external rotation stretches improve flexibility of muscles around the hip joint. They help increase movement range, reduce stiffness, and support comfortable performance of activities such as sitting, walking, and exercise.",
+    "keywords":[
+      "hip external rotation",
+      "hip stretch",
+      "flexibility",
+      "mobility"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Hip Flexibility",
+      "Joint Mobility",
+      "Physiotherapy"
+    ],
+    "precautions":"Avoid forcing the stretch and maintain a comfortable position.",
+    "consultation":"Consult a qualified physiotherapist for proper stretching techniques.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":50,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Hip Mobility",
+    "subtopic":"Hip Mobility Routine",
+    "question":"What is a hip mobility routine and why is it useful?",
+    "answer":"A hip mobility routine combines stretching and movement exercises to improve flexibility, joint control, and range of motion. It helps reduce stiffness, improve lower body movement, and support better posture and physical performance.",
+    "keywords":[
+      "hip mobility routine",
+      "flexibility",
+      "joint movement",
+      "rehabilitation"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Mobility Training",
+      "Posture Correction",
+      "Lower Body Health"
+    ],
+    "precautions":"Perform exercises gradually and avoid movements that cause pain.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":51,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Wrist Rehab",
+    "subtopic":"Wrist Flexion Exercise",
+    "question":"What is wrist flexion exercise and how does it help rehabilitation?",
+    "answer":"Wrist flexion exercises improve flexibility and strength of muscles involved in bending the wrist downward. They help restore movement, reduce stiffness, and support recovery after wrist injuries or weakness.",
+    "keywords":[
+      "wrist flexion",
+      "wrist mobility",
+      "rehabilitation",
+      "strengthening"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Hand Therapy",
+      "Joint Mobility",
+      "Physiotherapy"
+    ],
+    "precautions":"Perform movements slowly and avoid exercises that cause sharp pain.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":52,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Wrist Rehab",
+    "subtopic":"Wrist Extension Exercise",
+    "question":"How does wrist extension exercise support wrist recovery?",
+    "answer":"Wrist extension exercises strengthen muscles that lift the wrist upward and improve joint mobility. They are commonly used in rehabilitation programs to restore wrist function after injuries, stiffness, or reduced strength.",
+    "keywords":[
+      "wrist extension",
+      "wrist strength",
+      "joint mobility",
+      "rehabilitation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Hand Rehabilitation",
+      "Forearm Strength",
+      "Physiotherapy"
+    ],
+    "precautions":"Avoid excessive resistance and maintain controlled wrist movements.",
+    "consultation":"Consult a qualified physiotherapist for personalized exercise recommendations.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":53,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Wrist Rehab",
+    "subtopic":"Wrist Rotation Exercise",
+    "question":"Why are wrist rotation exercises used in physiotherapy?",
+    "answer":"Wrist rotation exercises improve the ability to turn the palm upward and downward. They help increase mobility, reduce stiffness, and restore functional wrist movements needed for daily activities.",
+    "keywords":[
+      "wrist rotation",
+      "forearm mobility",
+      "wrist rehabilitation",
+      "movement"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Hand Therapy",
+      "Mobility Exercises",
+      "Recovery"
+    ],
+    "precautions":"Perform rotations gently and avoid forcing the wrist movement.",
+    "consultation":"Consult a qualified physiotherapist for proper rehabilitation guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":54,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Wrist Rehab",
+    "subtopic":"Grip Strength Exercise",
+    "question":"How do grip strength exercises help wrist rehabilitation?",
+    "answer":"Grip strength exercises improve hand and forearm muscle strength, supporting wrist stability and function. They are useful during rehabilitation to restore gripping ability required for daily tasks and physical activities.",
+    "keywords":[
+      "grip strength",
+      "wrist stability",
+      "hand rehabilitation",
+      "forearm strength"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Hand Therapy",
+      "Wrist Strengthening",
+      "Functional Recovery"
+    ],
+    "precautions":"Avoid excessive squeezing force and gradually increase resistance.",
+    "consultation":"Consult a qualified physiotherapist before advanced strengthening exercises.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":55,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Wrist Rehab",
+    "subtopic":"Wrist Stretching Exercise",
+    "question":"What are the benefits of wrist stretching exercises?",
+    "answer":"Wrist stretching exercises improve flexibility, reduce muscle tightness, and support better movement of the wrist joint. They are commonly used to maintain mobility and prevent stiffness during recovery.",
+    "keywords":[
+      "wrist stretching",
+      "flexibility",
+      "wrist mobility",
+      "rehabilitation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Hand Therapy",
+      "Joint Flexibility",
+      "Physiotherapy"
+    ],
+    "precautions":"Stretch gently and avoid holding positions that cause pain.",
+    "consultation":"Consult a qualified physiotherapist for correct stretching techniques.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":56,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Wrist Rehab",
+    "subtopic":"Wrist Resistance Exercise",
+    "question":"How do resistance exercises help in wrist rehabilitation?",
+    "answer":"Wrist resistance exercises strengthen muscles around the wrist and forearm, improving joint stability and functional ability. They are used during rehabilitation to restore strength required for gripping, lifting, and daily activities.",
+    "keywords":[
+      "wrist resistance",
+      "wrist strengthening",
+      "forearm muscles",
+      "rehabilitation"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Hand Therapy",
+      "Strength Training",
+      "Wrist Recovery"
+    ],
+    "precautions":"Begin with light resistance and avoid exercises that increase pain.",
+    "consultation":"Consult a qualified physiotherapist before progressing resistance levels.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":57,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Wrist Rehab",
+    "subtopic":"Wrist Tendon Gliding Exercise",
+    "question":"What are tendon gliding exercises and why are they useful?",
+    "answer":"Tendon gliding exercises involve controlled finger and wrist movements that help improve tendon mobility and reduce stiffness. They are commonly used in hand therapy after injuries or conditions affecting wrist and hand movement.",
+    "keywords":[
+      "tendon gliding",
+      "wrist mobility",
+      "hand therapy",
+      "flexibility"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Tendon Rehabilitation",
+      "Hand Movement",
+      "Physiotherapy"
+    ],
+    "precautions":"Perform movements slowly and avoid forcing fingers or wrist joints.",
+    "consultation":"Consult a qualified physiotherapist for proper exercise techniques.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":58,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Wrist Rehab",
+    "subtopic":"Wrist Joint Mobility Exercise",
+    "question":"Why are wrist joint mobility exercises performed?",
+    "answer":"Wrist joint mobility exercises improve flexibility and movement range after injury or periods of reduced activity. They help reduce stiffness, improve joint function, and support gradual return to normal hand movements.",
+    "keywords":[
+      "wrist mobility",
+      "joint movement",
+      "wrist recovery",
+      "rehabilitation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Joint Flexibility",
+      "Hand Rehabilitation",
+      "Physiotherapy"
+    ],
+    "precautions":"Avoid excessive stretching and stop if discomfort increases.",
+    "consultation":"Consult a qualified physiotherapist for personalized rehabilitation guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":59,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Wrist Rehab",
+    "subtopic":"Forearm Pronation and Supination Exercise",
+    "question":"How do pronation and supination exercises improve wrist function?",
+    "answer":"Pronation and supination exercises improve the ability to rotate the forearm and wrist. They help restore movement needed for activities such as turning keys, using tools, and performing daily tasks after injury.",
+    "keywords":[
+      "pronation",
+      "supination",
+      "forearm rotation",
+      "wrist function"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Forearm Mobility",
+      "Wrist Rehabilitation",
+      "Functional Training"
+    ],
+    "precautions":"Perform rotation movements gently and avoid excessive twisting.",
+    "consultation":"Consult a qualified physiotherapist for proper rehabilitation progression.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":60,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Wrist Rehab",
+    "subtopic":"Wrist Recovery Program",
+    "question":"What does a wrist recovery program include?",
+    "answer":"A wrist recovery program combines mobility exercises, strengthening activities, stretching, and gradual functional training. It aims to restore wrist movement, improve strength, and help individuals safely return to daily activities.",
+    "keywords":[
+      "wrist recovery",
+      "rehabilitation program",
+      "mobility",
+      "strengthening"
+    ],
+    "difficulty":"Advanced",
+    "related_topics":[
+      "Hand Therapy",
+      "Injury Recovery",
+      "Physiotherapy"
+    ],
+    "precautions":"Follow a gradual progression and avoid returning to heavy activities too quickly.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for complete rehabilitation planning.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":61,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Ankle Rehab",
+    "subtopic":"Ankle Range of Motion Exercise",
+    "question":"What are ankle range of motion exercises and why are they useful?",
+    "answer":"Ankle range of motion exercises improve flexibility and movement of the ankle joint after injury or stiffness. They help restore normal motion, reduce joint tightness, and support recovery during rehabilitation.",
+    "keywords":[
+      "ankle mobility",
+      "range of motion",
+      "ankle rehabilitation",
+      "physiotherapy"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Joint Mobility",
+      "Ankle Recovery",
+      "Rehabilitation"
+    ],
+    "precautions":"Perform movements slowly and avoid forcing the ankle beyond comfortable limits.",
+    "consultation":"Consult a qualified physiotherapist or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":62,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Ankle Rehab",
+    "subtopic":"Ankle Circles Exercise",
+    "question":"How do ankle circles help in ankle rehabilitation?",
+    "answer":"Ankle circles improve joint mobility, flexibility, and coordination by moving the ankle through different directions. They are commonly used after injuries to reduce stiffness and gradually restore normal ankle movement.",
+    "keywords":[
+      "ankle circles",
+      "ankle mobility",
+      "flexibility",
+      "rehabilitation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Ankle Exercises",
+      "Joint Recovery",
+      "Physiotherapy"
+    ],
+    "precautions":"Perform smooth circular movements and avoid painful ranges.",
+    "consultation":"Consult a qualified physiotherapist for personalized rehabilitation advice.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":63,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Ankle Rehab",
+    "subtopic":"Calf Stretch Exercise",
+    "question":"Why is calf stretching important during ankle rehabilitation?",
+    "answer":"Calf stretching improves flexibility of muscles connected to the ankle and helps maintain proper movement. It can reduce stiffness, improve walking mechanics, and support recovery after ankle injuries.",
+    "keywords":[
+      "calf stretch",
+      "ankle flexibility",
+      "mobility",
+      "rehabilitation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Lower Leg Mobility",
+      "Ankle Recovery",
+      "Stretching"
+    ],
+    "precautions":"Stretch gently and avoid bouncing movements during stretching.",
+    "consultation":"Consult a qualified physiotherapist for correct stretching techniques.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":64,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Ankle Rehab",
+    "subtopic":"Ankle Strengthening Exercise",
+    "question":"How do ankle strengthening exercises support recovery?",
+    "answer":"Ankle strengthening exercises improve muscle strength around the joint, increasing stability and reducing the risk of repeated injuries. They help restore balance, control, and confidence during walking and sports activities.",
+    "keywords":[
+      "ankle strengthening",
+      "ankle stability",
+      "rehabilitation",
+      "injury prevention"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Balance Training",
+      "Sports Rehabilitation",
+      "Joint Stability"
+    ],
+    "precautions":"Increase resistance gradually and avoid exercises that cause pain.",
+    "consultation":"Consult a qualified physiotherapist before advanced strengthening exercises.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":65,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Ankle Rehab",
+    "subtopic":"Balance Training for Ankle",
+    "question":"Why is balance training important for ankle rehabilitation?",
+    "answer":"Balance training improves ankle stability, coordination, and body control after injury. It strengthens supporting muscles and helps prevent future ankle problems by improving joint awareness and movement control.",
+    "keywords":[
+      "balance training",
+      "ankle stability",
+      "coordination",
+      "rehabilitation"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Injury Prevention",
+      "Ankle Strength",
+      "Functional Training"
+    ],
+    "precautions":"Perform balance exercises in a safe area to prevent falls.",
+    "consultation":"Consult a qualified physiotherapist for appropriate progression.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":66,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Ankle Rehab",
+    "subtopic":"Resistance Band Ankle Exercise",
+    "question":"How do resistance band exercises help ankle rehabilitation?",
+    "answer":"Resistance band ankle exercises strengthen muscles around the ankle joint and improve stability. They help restore strength, control, and flexibility after injuries while supporting better balance and movement during daily activities.",
+    "keywords":[
+      "resistance band",
+      "ankle strengthening",
+      "ankle stability",
+      "rehabilitation"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Ankle Recovery",
+      "Strength Training",
+      "Physiotherapy"
+    ],
+    "precautions":"Use suitable resistance levels and avoid movements that cause pain.",
+    "consultation":"Consult a qualified physiotherapist for proper exercise progression.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":67,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Ankle Rehab",
+    "subtopic":"Ankle Alphabet Exercise",
+    "question":"What is the ankle alphabet exercise and why is it useful?",
+    "answer":"The ankle alphabet exercise improves mobility by moving the foot to trace letters in the air. It helps increase range of motion, reduce stiffness, and support recovery after ankle injuries or immobilization.",
+    "keywords":[
+      "ankle alphabet",
+      "ankle mobility",
+      "range of motion",
+      "rehabilitation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Joint Mobility",
+      "Ankle Recovery",
+      "Physiotherapy"
+    ],
+    "precautions":"Perform movements slowly and avoid pushing into painful positions.",
+    "consultation":"Consult a qualified physiotherapist for rehabilitation advice.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":68,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Ankle Rehab",
+    "subtopic":"Heel Raise Exercise",
+    "question":"How do heel raise exercises improve ankle function?",
+    "answer":"Heel raise exercises strengthen calf and ankle muscles that support walking, running, and balance. They improve ankle stability, muscle endurance, and functional movement during recovery from weakness or injury.",
+    "keywords":[
+      "heel raise",
+      "calf strengthening",
+      "ankle function",
+      "balance"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Calf Strength",
+      "Ankle Stability",
+      "Functional Training"
+    ],
+    "precautions":"Maintain balance and avoid excessive loading during the exercise.",
+    "consultation":"Consult a qualified physiotherapist before advanced strengthening exercises.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":69,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Ankle Rehab",
+    "subtopic":"Ankle Stretching Routine",
+    "question":"Why are ankle stretching routines included in rehabilitation?",
+    "answer":"Ankle stretching routines improve flexibility of muscles and tendons around the ankle. They help reduce stiffness, improve movement quality, and support a gradual return to normal walking and physical activities.",
+    "keywords":[
+      "ankle stretching",
+      "flexibility",
+      "mobility",
+      "rehabilitation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Ankle Mobility",
+      "Recovery Exercises",
+      "Physiotherapy"
+    ],
+    "precautions":"Avoid overstretching and maintain comfortable positions during stretches.",
+    "consultation":"Consult a qualified physiotherapist for correct stretching methods.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":70,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Ankle Rehab",
+    "subtopic":"Functional Ankle Training",
+    "question":"What is functional ankle training and why is it important?",
+    "answer":"Functional ankle training focuses on improving strength, balance, and coordination needed for daily activities and sports. It helps restore confidence, prevent repeated injuries, and improve overall ankle performance after rehabilitation.",
+    "keywords":[
+      "functional training",
+      "ankle rehabilitation",
+      "balance",
+      "injury prevention"
+    ],
+    "difficulty":"Advanced",
+    "related_topics":[
+      "Sports Rehabilitation",
+      "Balance Training",
+      "Ankle Stability"
+    ],
+    "precautions":"Progress exercises gradually and avoid high-impact activities too early.",
+    "consultation":"Consult a qualified physiotherapist for return-to-activity planning.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":71,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Posture Correction",
+    "subtopic":"Chin Tuck Posture Exercise",
+    "question":"What is chin tuck exercise and how does it improve posture?",
+    "answer":"Chin tuck exercises strengthen deep neck muscles and help correct forward head posture. They improve neck alignment, reduce strain on cervical muscles, and support better posture during sitting and daily activities.",
+    "keywords":[
+      "chin tuck",
+      "posture correction",
+      "neck alignment",
+      "physiotherapy"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Neck Exercises",
+      "Spinal Alignment",
+      "Ergonomics"
+    ],
+    "precautions":"Avoid pushing the head forcefully backward and maintain gentle movement.",
+    "consultation":"Consult a qualified physiotherapist for proper posture assessment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":72,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Posture Correction",
+    "subtopic":"Wall Posture Exercise",
+    "question":"How does wall posture exercise help improve body alignment?",
+    "answer":"Wall posture exercises teach proper alignment of the head, shoulders, and spine by using a wall as a reference point. They help improve posture awareness, reduce muscle imbalance, and encourage correct standing habits.",
+    "keywords":[
+      "wall posture",
+      "body alignment",
+      "posture training",
+      "physiotherapy"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Posture Awareness",
+      "Spinal Health",
+      "Correction Exercises"
+    ],
+    "precautions":"Maintain a comfortable position and avoid forcing the spine against the wall.",
+    "consultation":"Consult a qualified physiotherapist for personalized posture correction.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":73,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Posture Correction",
+    "subtopic":"Shoulder Blade Squeeze Exercise",
+    "question":"Why are shoulder blade squeeze exercises useful for posture?",
+    "answer":"Shoulder blade squeeze exercises strengthen upper back muscles and improve shoulder positioning. They help reduce rounded shoulders, support spinal alignment, and improve posture during prolonged sitting or computer work.",
+    "keywords":[
+      "shoulder blade squeeze",
+      "rounded shoulders",
+      "upper back strength",
+      "posture"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Shoulder Rehab",
+      "Upper Back Training",
+      "Ergonomics"
+    ],
+    "precautions":"Avoid lifting shoulders upward and focus on controlled squeezing movements.",
+    "consultation":"Consult a qualified physiotherapist for proper exercise technique.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":74,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Posture Correction",
+    "subtopic":"Core Strengthening for Posture",
+    "question":"How does core strengthening improve posture?",
+    "answer":"Core strengthening exercises improve stability of abdominal and back muscles that support the spine. A stronger core helps maintain proper posture, improves balance, and reduces unnecessary stress on the back.",
+    "keywords":[
+      "core strengthening",
+      "posture improvement",
+      "spinal support",
+      "stability"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Back Exercises",
+      "Spinal Stability",
+      "Physiotherapy"
+    ],
+    "precautions":"Maintain proper breathing and avoid compensating with incorrect movements.",
+    "consultation":"Consult a qualified physiotherapist before advanced exercises.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":75,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Posture Correction",
+    "subtopic":"Chest Stretch Exercise",
+    "question":"Why is chest stretching important for posture correction?",
+    "answer":"Chest stretching helps reduce tightness in chest muscles that can contribute to rounded shoulders. It improves shoulder mobility, supports better upper body alignment, and promotes healthier posture habits.",
+    "keywords":[
+      "chest stretch",
+      "shoulder posture",
+      "flexibility",
+      "posture correction"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Shoulder Mobility",
+      "Upper Body Flexibility",
+      "Ergonomics"
+    ],
+    "precautions":"Stretch gently and avoid excessive pressure on the shoulders.",
+    "consultation":"Consult a qualified physiotherapist for proper stretching guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":76,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Posture Correction",
+    "subtopic":"Cat Cow Posture Exercise",
+    "question":"How does cat cow exercise help improve posture?",
+    "answer":"Cat cow exercises improve spinal mobility and awareness by gently moving the spine through flexion and extension. They help reduce stiffness, improve posture control, and support better alignment of the back and neck.",
+    "keywords":[
+      "cat cow",
+      "spinal mobility",
+      "posture correction",
+      "back flexibility"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Back Exercises",
+      "Spinal Health",
+      "Mobility Training"
+    ],
+    "precautions":"Perform movements slowly and avoid excessive spinal bending.",
+    "consultation":"Consult a qualified physiotherapist for proper exercise guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":77,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Posture Correction",
+    "subtopic":"Upper Back Strengthening",
+    "question":"Why are upper back strengthening exercises important for posture?",
+    "answer":"Upper back strengthening exercises improve muscle support around the shoulders and spine. They help correct rounded shoulders, improve body alignment, and maintain proper posture during sitting, standing, and daily activities.",
+    "keywords":[
+      "upper back strength",
+      "posture improvement",
+      "shoulder alignment",
+      "physiotherapy"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Shoulder Rehab",
+      "Spinal Stability",
+      "Posture Training"
+    ],
+    "precautions":"Maintain proper technique and avoid lifting excessive weights.",
+    "consultation":"Consult a qualified physiotherapist before advanced strengthening exercises.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":78,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Posture Correction",
+    "subtopic":"Pelvic Tilt Posture Exercise",
+    "question":"How does pelvic tilt exercise support posture correction?",
+    "answer":"Pelvic tilt exercises improve awareness and control of pelvic position, which affects spinal alignment. They help strengthen core muscles, reduce lower back strain, and support better posture during movement.",
+    "keywords":[
+      "pelvic tilt",
+      "posture correction",
+      "core stability",
+      "spinal alignment"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Core Strengthening",
+      "Back Exercises",
+      "Posture Awareness"
+    ],
+    "precautions":"Avoid excessive movement and maintain controlled breathing.",
+    "consultation":"Consult a qualified physiotherapist for personalized recommendations.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":79,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Posture Correction",
+    "subtopic":"Ergonomic Sitting Practice",
+    "question":"How does ergonomic sitting improve posture?",
+    "answer":"Ergonomic sitting practices maintain proper alignment of the spine, neck, and shoulders while working or studying. They reduce muscle strain, prevent poor posture habits, and support long-term spinal health.",
+    "keywords":[
+      "ergonomic sitting",
+      "work posture",
+      "spinal alignment",
+      "posture habits"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Office Ergonomics",
+      "Neck Exercises",
+      "Back Health"
+    ],
+    "precautions":"Adjust chair height and screen position according to individual needs.",
+    "consultation":"Consult a physiotherapist for workplace posture assessment if needed.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":80,
+    "dataset":"Physiotherapy_Dataset",
+    "category":"Posture Correction",
+    "subtopic":"Full Body Posture Training",
+    "question":"What is full body posture training and why is it useful?",
+    "answer":"Full body posture training combines strengthening, stretching, and awareness exercises to improve alignment of the entire body. It helps develop healthy movement patterns, reduce muscle imbalance, and support better physical function.",
+    "keywords":[
+      "posture training",
+      "body alignment",
+      "mobility",
+      "physiotherapy"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Posture Correction",
+      "Strength Training",
+      "Mobility Exercises"
+    ],
+    "precautions":"Progress gradually and avoid exercises that increase discomfort.",
+    "consultation":"Consult a qualified physiotherapist for a personalized posture program.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  }
+]
