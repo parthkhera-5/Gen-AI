@@ -1,0 +1,1922 @@
+[
+  {
+    "id":1,
+    "dataset":"Sports_Dataset",
+    "category":"Knee Injuries",
+    "subtopic":"ACL Injury",
+    "question":"What is an ACL injury and why is it common in athletes?",
+    "answer":"An ACL injury is damage to the anterior cruciate ligament that stabilizes the knee joint. It commonly occurs during sudden direction changes, jumping, or awkward landings in sports. Symptoms include pain, swelling, instability, and difficulty continuing physical activities.",
+    "keywords":[
+      "ACL injury",
+      "knee ligament",
+      "sports injury",
+      "knee stability"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Ligament Injuries",
+      "Knee Rehabilitation",
+      "Sports Medicine"
+    ],
+    "precautions":"Use proper landing techniques, strengthen leg muscles, and perform sport-specific exercises to reduce injury risk.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":2,
+    "dataset":"Sports_Dataset",
+    "category":"Knee Injuries",
+    "subtopic":"Meniscus Tear",
+    "question":"What is a meniscus tear and how does it affect the knee?",
+    "answer":"A meniscus tear is an injury to the cartilage that cushions the knee joint. It often happens due to twisting movements, sudden stops, or sports impacts. Symptoms include pain, swelling, stiffness, and difficulty moving the knee properly during activities.",
+    "keywords":[
+      "meniscus tear",
+      "knee cartilage",
+      "joint injury",
+      "sports trauma"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Knee Pain",
+      "Cartilage Injury",
+      "Rehabilitation"
+    ],
+    "precautions":"Avoid excessive twisting movements, maintain knee strength, and follow proper training techniques.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":3,
+    "dataset":"Sports_Dataset",
+    "category":"Knee Injuries",
+    "subtopic":"Patellar Tendinitis",
+    "question":"What causes patellar tendinitis in sports players?",
+    "answer":"Patellar tendinitis, also called jumper's knee, is inflammation of the tendon connecting the kneecap and shin bone. It commonly develops from repeated jumping, running, or excessive knee stress. Athletes experience pain below the kneecap, tenderness, and reduced performance.",
+    "keywords":[
+      "patellar tendinitis",
+      "jumper's knee",
+      "knee tendon",
+      "overuse injury"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Tendon Injuries",
+      "Jumping Sports",
+      "Knee Rehabilitation"
+    ],
+    "precautions":"Increase training gradually, maintain flexibility, and strengthen thigh muscles regularly.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":4,
+    "dataset":"Sports_Dataset",
+    "category":"Knee Injuries",
+    "subtopic":"Runner's Knee",
+    "question":"What is runner's knee and why does it occur?",
+    "answer":"Runner's knee is pain around the kneecap caused by overuse, muscle imbalance, improper running technique, or training mistakes. It is common among runners and athletes performing repetitive movements. Symptoms include knee pain during running, stairs, squatting, or prolonged sitting.",
+    "keywords":[
+      "runner's knee",
+      "patellofemoral pain",
+      "running injury",
+      "knee pain"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Running Injuries",
+      "Knee Strength",
+      "Sports Training"
+    ],
+    "precautions":"Maintain correct running form, increase exercise intensity slowly, and strengthen supporting muscles.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":5,
+    "dataset":"Sports_Dataset",
+    "category":"Knee Injuries",
+    "subtopic":"Knee Sprain",
+    "question":"What is a knee sprain and how does it happen?",
+    "answer":"A knee sprain occurs when ligaments supporting the knee are stretched or torn due to sudden twisting, falls, or impacts. It commonly affects athletes involved in football, basketball, and other sports. Symptoms include pain, swelling, bruising, and reduced knee stability.",
+    "keywords":[
+      "knee sprain",
+      "ligament damage",
+      "sports injury",
+      "knee swelling"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Ligament Injury",
+      "Knee Recovery",
+      "Sports Rehabilitation"
+    ],
+    "precautions":"Warm up properly, use protective equipment, and avoid returning to sports before complete recovery.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":6,
+    "dataset":"Sports_Dataset",
+    "category":"Knee Injuries",
+    "subtopic":"Knee Fracture",
+    "question":"What is a knee fracture and how can it affect athletes?",
+    "answer":"A knee fracture is a break in one or more bones forming the knee joint, often caused by high-impact falls, collisions, or accidents. It can cause severe pain, swelling, bruising, and difficulty bearing weight. Proper diagnosis and treatment are required for recovery.",
+    "keywords":[
+      "knee fracture",
+      "bone injury",
+      "sports trauma",
+      "knee pain"
+    ],
+    "difficulty":"Advanced",
+    "related_topics":[
+      "Bone Injuries",
+      "Sports Trauma",
+      "Rehabilitation"
+    ],
+    "precautions":"Use appropriate protective equipment, follow sports safety rules, and avoid high-risk activities without preparation.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":7,
+    "dataset":"Sports_Dataset",
+    "category":"Knee Injuries",
+    "subtopic":"MCL Injury",
+    "question":"What is an MCL injury and what causes it?",
+    "answer":"An MCL injury affects the medial collateral ligament located on the inner side of the knee. It commonly occurs from direct impact or sudden sideways force during sports. Symptoms include knee pain, swelling, tenderness, and reduced stability while walking or playing.",
+    "keywords":[
+      "MCL injury",
+      "knee ligament",
+      "sports injury",
+      "knee stability"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Ligament Injuries",
+      "Knee Rehabilitation",
+      "Athletic Training"
+    ],
+    "precautions":"Strengthen knee muscles, practice proper movement techniques, and use protective gear during contact sports.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":8,
+    "dataset":"Sports_Dataset",
+    "category":"Knee Injuries",
+    "subtopic":"PCL Injury",
+    "question":"What is a PCL injury and how does it occur?",
+    "answer":"A PCL injury involves damage to the posterior cruciate ligament, which helps control knee movement and stability. It usually occurs due to strong impacts, falls, or excessive knee bending. Symptoms may include pain, swelling, stiffness, and difficulty performing sports activities.",
+    "keywords":[
+      "PCL injury",
+      "knee ligament",
+      "sports trauma",
+      "joint stability"
+    ],
+    "difficulty":"Advanced",
+    "related_topics":[
+      "Knee Ligaments",
+      "Sports Injuries",
+      "Rehabilitation"
+    ],
+    "precautions":"Maintain muscle strength, use proper techniques during sports, and avoid risky movements.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":9,
+    "dataset":"Sports_Dataset",
+    "category":"Knee Injuries",
+    "subtopic":"Knee Dislocation",
+    "question":"What is a knee dislocation and why is it serious?",
+    "answer":"A knee dislocation occurs when the bones forming the knee joint move out of their normal position due to severe trauma. It is a serious injury that may damage ligaments, nerves, or blood vessels. Immediate medical evaluation is necessary to prevent complications.",
+    "keywords":[
+      "knee dislocation",
+      "joint injury",
+      "sports trauma",
+      "ligament damage"
+    ],
+    "difficulty":"Advanced",
+    "related_topics":[
+      "Emergency Sports Injuries",
+      "Ligament Damage",
+      "Knee Surgery"
+    ],
+    "precautions":"Use proper protective equipment, avoid dangerous contact situations, and do not ignore severe knee injuries.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":10,
+    "dataset":"Sports_Dataset",
+    "category":"Knee Injuries",
+    "subtopic":"Knee Bursitis",
+    "question":"What is knee bursitis and what causes inflammation?",
+    "answer":"Knee bursitis is inflammation of small fluid-filled sacs called bursae that reduce friction around the knee joint. It can develop due to repetitive kneeling, excessive training, or direct impact. Symptoms include swelling, tenderness, and pain during movement or pressure on the knee.",
+    "keywords":[
+      "knee bursitis",
+      "joint inflammation",
+      "knee swelling",
+      "sports injury"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Overuse Injuries",
+      "Joint Inflammation",
+      "Sports Rehabilitation"
+    ],
+    "precautions":"Avoid repetitive stress, use proper training methods, and allow adequate recovery between activities.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":11,
+    "dataset":"Sports_Dataset",
+    "category":"Shoulder Injuries",
+    "subtopic":"Rotator Cuff Injury",
+    "question":"What is a rotator cuff injury and why does it occur in athletes?",
+    "answer":"A rotator cuff injury involves damage to the group of muscles and tendons stabilizing the shoulder joint. It commonly occurs due to repetitive overhead movements in sports like swimming, tennis, and baseball. Symptoms include shoulder pain, weakness, reduced movement, and difficulty lifting the arm.",
+    "keywords":[
+      "rotator cuff",
+      "shoulder injury",
+      "sports injury",
+      "shoulder muscles"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Shoulder Rehabilitation",
+      "Overuse Injuries",
+      "Sports Medicine"
+    ],
+    "precautions":"Avoid excessive overhead activities, strengthen shoulder muscles, and maintain proper exercise techniques.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":12,
+    "dataset":"Sports_Dataset",
+    "category":"Shoulder Injuries",
+    "subtopic":"Shoulder Dislocation",
+    "question":"What causes shoulder dislocation in sports players?",
+    "answer":"A shoulder dislocation occurs when the upper arm bone moves out of its normal position in the shoulder socket. It commonly happens due to falls, collisions, or sudden impacts during sports. Symptoms include severe pain, visible deformity, swelling, and inability to move the shoulder properly.",
+    "keywords":[
+      "shoulder dislocation",
+      "joint injury",
+      "sports trauma",
+      "shoulder instability"
+    ],
+    "difficulty":"Advanced",
+    "related_topics":[
+      "Joint Injuries",
+      "Sports Trauma",
+      "Shoulder Recovery"
+    ],
+    "precautions":"Use protective equipment, improve shoulder strength, and avoid unsafe contact situations.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":13,
+    "dataset":"Sports_Dataset",
+    "category":"Shoulder Injuries",
+    "subtopic":"Shoulder Impingement",
+    "question":"What is shoulder impingement syndrome and how does it affect athletes?",
+    "answer":"Shoulder impingement occurs when tendons or tissues in the shoulder become compressed during movement. It is common in athletes performing repeated overhead actions such as swimming or throwing. Symptoms include pain while raising the arm, weakness, stiffness, and reduced athletic performance.",
+    "keywords":[
+      "shoulder impingement",
+      "shoulder pain",
+      "overuse injury",
+      "athletes"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Rotator Cuff",
+      "Shoulder Mobility",
+      "Sports Rehabilitation"
+    ],
+    "precautions":"Maintain proper posture, strengthen shoulder muscles, and avoid excessive repetitive movements.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":14,
+    "dataset":"Sports_Dataset",
+    "category":"Shoulder Injuries",
+    "subtopic":"Shoulder Sprain",
+    "question":"What is a shoulder sprain and what causes it?",
+    "answer":"A shoulder sprain occurs when ligaments supporting the shoulder joint are stretched or torn. It can result from falls, sudden movements, or direct impacts during sports. Common symptoms include pain, swelling, tenderness, and limited shoulder movement during athletic activities.",
+    "keywords":[
+      "shoulder sprain",
+      "ligament injury",
+      "sports injury",
+      "shoulder pain"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Ligament Injuries",
+      "Shoulder Recovery",
+      "Sports Training"
+    ],
+    "precautions":"Warm up properly, strengthen shoulder muscles, and use correct techniques during sports activities.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":15,
+    "dataset":"Sports_Dataset",
+    "category":"Shoulder Injuries",
+    "subtopic":"Labral Tear",
+    "question":"What is a shoulder labral tear and how does it affect movement?",
+    "answer":"A shoulder labral tear is damage to the cartilage ring that helps stabilize the shoulder socket. It may occur due to repetitive throwing, falls, or sudden shoulder movements. Symptoms include pain, clicking sensations, weakness, and a feeling of instability during sports activities.",
+    "keywords":[
+      "labral tear",
+      "shoulder cartilage",
+      "joint instability",
+      "sports injury"
+    ],
+    "difficulty":"Advanced",
+    "related_topics":[
+      "Shoulder Joint",
+      "Athletic Injuries",
+      "Rehabilitation"
+    ],
+    "precautions":"Avoid excessive shoulder stress, improve flexibility, and strengthen stabilizing muscles.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":16,
+    "dataset":"Sports_Dataset",
+    "category":"Shoulder Injuries",
+    "subtopic":"Biceps Tendon Injury",
+    "question":"What is a biceps tendon injury and how does it affect athletes?",
+    "answer":"A biceps tendon injury involves damage to the tendon connecting the biceps muscle to the shoulder or elbow. It commonly occurs due to repetitive lifting, throwing, or sudden forceful movements. Symptoms include shoulder pain, weakness, swelling, and difficulty performing upper-body activities.",
+    "keywords":[
+      "biceps tendon",
+      "shoulder injury",
+      "tendon damage",
+      "sports injury"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Tendon Injuries",
+      "Shoulder Rehabilitation",
+      "Strength Training"
+    ],
+    "precautions":"Avoid excessive lifting, maintain proper exercise techniques, and strengthen shoulder and arm muscles gradually.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":17,
+    "dataset":"Sports_Dataset",
+    "category":"Shoulder Injuries",
+    "subtopic":"AC Joint Injury",
+    "question":"What is an AC joint injury and what causes it?",
+    "answer":"An AC joint injury affects the connection between the collarbone and shoulder blade. It commonly occurs due to falls directly onto the shoulder or collisions during contact sports. Symptoms include pain, swelling, tenderness, and difficulty moving the affected shoulder during activities.",
+    "keywords":[
+      "AC joint injury",
+      "shoulder trauma",
+      "sports collision",
+      "joint injury"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Shoulder Trauma",
+      "Joint Injuries",
+      "Sports Rehabilitation"
+    ],
+    "precautions":"Use protective equipment, improve shoulder strength, and follow safe techniques during contact sports.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":18,
+    "dataset":"Sports_Dataset",
+    "category":"Shoulder Injuries",
+    "subtopic":"Frozen Shoulder",
+    "question":"What is frozen shoulder and how can it affect athletes?",
+    "answer":"Frozen shoulder is a condition causing stiffness and reduced movement in the shoulder joint due to inflammation and tissue tightening. It may develop after injury or prolonged inactivity. Athletes may experience pain, limited range of motion, and difficulty performing overhead movements.",
+    "keywords":[
+      "frozen shoulder",
+      "shoulder stiffness",
+      "joint mobility",
+      "shoulder pain"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Shoulder Mobility",
+      "Rehabilitation",
+      "Joint Conditions"
+    ],
+    "precautions":"Maintain shoulder mobility, perform stretching exercises, and avoid prolonged inactivity after injuries.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":19,
+    "dataset":"Sports_Dataset",
+    "category":"Shoulder Injuries",
+    "subtopic":"Shoulder Fracture",
+    "question":"What is a shoulder fracture and how does it occur in sports?",
+    "answer":"A shoulder fracture is a break in bones forming the shoulder region, often caused by falls, collisions, or high-impact sports accidents. It can result in severe pain, swelling, bruising, and restricted movement. Medical evaluation is necessary to determine proper treatment and recovery.",
+    "keywords":[
+      "shoulder fracture",
+      "bone injury",
+      "sports trauma",
+      "shoulder pain"
+    ],
+    "difficulty":"Advanced",
+    "related_topics":[
+      "Bone Injuries",
+      "Sports Trauma",
+      "Recovery"
+    ],
+    "precautions":"Use protective gear, follow sports safety guidelines, and avoid returning to play before complete healing.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":20,
+    "dataset":"Sports_Dataset",
+    "category":"Shoulder Injuries",
+    "subtopic":"Throwing Shoulder Injury",
+    "question":"What causes throwing shoulder injuries in athletes?",
+    "answer":"Throwing shoulder injuries occur due to repeated overhead throwing motions that place stress on shoulder muscles, tendons, and joints. They are common in baseball, cricket, and tennis players. Symptoms include pain, weakness, reduced throwing ability, and shoulder fatigue during sports activities.",
+    "keywords":[
+      "throwing injury",
+      "shoulder overuse",
+      "athletic injury",
+      "shoulder pain"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Overuse Injuries",
+      "Shoulder Strength",
+      "Sports Training"
+    ],
+    "precautions":"Maintain proper throwing techniques, strengthen shoulder muscles, and include adequate rest periods.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":21,
+    "dataset":"Sports_Dataset",
+    "category":"Ankle Injuries",
+    "subtopic":"Ankle Sprain",
+    "question":"What is an ankle sprain and why is it common in athletes?",
+    "answer":"An ankle sprain occurs when ligaments supporting the ankle are stretched or torn due to twisting, rolling, or sudden changes in direction. It is common in sports involving running and jumping. Symptoms include pain, swelling, bruising, and difficulty putting weight on the foot.",
+    "keywords":[
+      "ankle sprain",
+      "ligament injury",
+      "sports injury",
+      "ankle pain"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Ligament Injuries",
+      "Sports Rehabilitation",
+      "Foot Injuries"
+    ],
+    "precautions":"Wear suitable footwear, improve balance, strengthen ankle muscles, and warm up before sports activities.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":22,
+    "dataset":"Sports_Dataset",
+    "category":"Ankle Injuries",
+    "subtopic":"Achilles Tendon Rupture",
+    "question":"What is an Achilles tendon rupture and how does it happen?",
+    "answer":"An Achilles tendon rupture is a complete or partial tear of the tendon connecting the calf muscles to the heel bone. It often occurs during sudden acceleration, jumping, or explosive movements. Athletes may experience sharp pain, swelling, and difficulty walking or pushing off the foot.",
+    "keywords":[
+      "Achilles tendon",
+      "tendon rupture",
+      "ankle injury",
+      "sports trauma"
+    ],
+    "difficulty":"Advanced",
+    "related_topics":[
+      "Tendon Injuries",
+      "Lower Limb Injuries",
+      "Rehabilitation"
+    ],
+    "precautions":"Increase training intensity gradually, maintain calf flexibility, and strengthen lower leg muscles.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":23,
+    "dataset":"Sports_Dataset",
+    "category":"Ankle Injuries",
+    "subtopic":"Ankle Fracture",
+    "question":"What causes ankle fractures in athletes?",
+    "answer":"An ankle fracture is a break in one or more bones forming the ankle joint. It commonly occurs due to falls, collisions, or twisting injuries during sports. Symptoms include severe pain, swelling, bruising, and inability to bear weight on the affected foot.",
+    "keywords":[
+      "ankle fracture",
+      "bone injury",
+      "sports trauma",
+      "ankle pain"
+    ],
+    "difficulty":"Advanced",
+    "related_topics":[
+      "Bone Injuries",
+      "Sports Trauma",
+      "Recovery"
+    ],
+    "precautions":"Use protective equipment, follow sports safety guidelines, and avoid risky movements during activities.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":24,
+    "dataset":"Sports_Dataset",
+    "category":"Ankle Injuries",
+    "subtopic":"High Ankle Sprain",
+    "question":"What is a high ankle sprain and how is it different from a normal sprain?",
+    "answer":"A high ankle sprain affects the ligaments connecting the lower leg bones above the ankle joint. It usually occurs from twisting forces or strong impacts in contact sports. Recovery is often longer compared to regular ankle sprains due to the location of the injury.",
+    "keywords":[
+      "high ankle sprain",
+      "syndesmosis injury",
+      "ankle ligament",
+      "sports injury"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Ligament Injuries",
+      "Football Injuries",
+      "Rehabilitation"
+    ],
+    "precautions":"Strengthen ankle stability, practice proper movement techniques, and avoid returning too quickly after injury.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":25,
+    "dataset":"Sports_Dataset",
+    "category":"Ankle Injuries",
+    "subtopic":"Ankle Instability",
+    "question":"What is chronic ankle instability and why does it occur?",
+    "answer":"Chronic ankle instability occurs when repeated ankle injuries weaken ligaments and reduce joint stability. Athletes with this condition may experience frequent ankle rolling, pain, and difficulty maintaining balance. Proper rehabilitation and strengthening exercises help restore stability and prevent future injuries.",
+    "keywords":[
+      "ankle instability",
+      "balance problems",
+      "ligament weakness",
+      "sports injury"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Ankle Rehabilitation",
+      "Balance Training",
+      "Ligament Injuries"
+    ],
+    "precautions":"Perform balance exercises, strengthen ankle muscles, and complete rehabilitation after injuries.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":26,
+    "dataset":"Sports_Dataset",
+    "category":"Ankle Injuries",
+    "subtopic":"Ankle Tendinitis",
+    "question":"What is ankle tendinitis and how does it affect athletes?",
+    "answer":"Ankle tendinitis is inflammation of tendons around the ankle caused by repetitive stress, overuse, or improper training. It is common in runners and jumping athletes. Symptoms include pain, swelling, stiffness, and discomfort during movement. Rest and rehabilitation help improve recovery.",
+    "keywords":[
+      "ankle tendinitis",
+      "tendon inflammation",
+      "overuse injury",
+      "sports injury"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Tendon Injuries",
+      "Ankle Rehabilitation",
+      "Running Injuries"
+    ],
+    "precautions":"Increase training gradually, wear supportive footwear, and maintain ankle flexibility and strength.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":27,
+    "dataset":"Sports_Dataset",
+    "category":"Ankle Injuries",
+    "subtopic":"Peroneal Tendon Injury",
+    "question":"What is a peroneal tendon injury and what causes it?",
+    "answer":"A peroneal tendon injury affects tendons located on the outer side of the ankle that provide stability during movement. It commonly occurs due to repeated ankle rolling, overuse, or sports activities involving running. Symptoms include outer ankle pain, swelling, and weakness.",
+    "keywords":[
+      "peroneal tendon",
+      "ankle tendon",
+      "sports injury",
+      "ankle stability"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Tendon Injuries",
+      "Foot Injuries",
+      "Sports Rehabilitation"
+    ],
+    "precautions":"Strengthen ankle muscles, improve balance, and avoid excessive training without recovery periods.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":28,
+    "dataset":"Sports_Dataset",
+    "category":"Ankle Injuries",
+    "subtopic":"Ankle Impingement",
+    "question":"What is ankle impingement and why does it occur in athletes?",
+    "answer":"Ankle impingement occurs when tissues or bones in the ankle become compressed during movement. It is common in athletes who repeatedly jump, run, or perform kicking motions. Symptoms include ankle pain, stiffness, and limited range of motion during sports activities.",
+    "keywords":[
+      "ankle impingement",
+      "joint compression",
+      "ankle pain",
+      "sports injury"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Joint Injuries",
+      "Ankle Mobility",
+      "Sports Medicine"
+    ],
+    "precautions":"Maintain ankle flexibility, strengthen supporting muscles, and avoid repetitive stress movements.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":29,
+    "dataset":"Sports_Dataset",
+    "category":"Ankle Injuries",
+    "subtopic":"Stress Fracture",
+    "question":"What is an ankle stress fracture and what causes it?",
+    "answer":"An ankle stress fracture is a small crack in the bone caused by repeated stress rather than a single injury. It commonly affects runners and endurance athletes. Symptoms include gradual pain, swelling, and discomfort that increases during physical activity.",
+    "keywords":[
+      "stress fracture",
+      "bone injury",
+      "ankle pain",
+      "overuse injury"
+    ],
+    "difficulty":"Advanced",
+    "related_topics":[
+      "Bone Injuries",
+      "Running Injuries",
+      "Athlete Recovery"
+    ],
+    "precautions":"Increase training slowly, allow recovery time, maintain proper nutrition, and avoid excessive workload.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":30,
+    "dataset":"Sports_Dataset",
+    "category":"Ankle Injuries",
+    "subtopic":"Ankle Contusion",
+    "question":"What is an ankle contusion and how does it happen?",
+    "answer":"An ankle contusion is a bruise caused by direct impact damaging soft tissues around the ankle. It commonly occurs during contact sports, falls, or collisions. Symptoms include pain, swelling, discoloration, and tenderness. Most cases improve with proper rest and injury management.",
+    "keywords":[
+      "ankle contusion",
+      "soft tissue injury",
+      "sports trauma",
+      "ankle bruise"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Sports Trauma",
+      "Soft Tissue Injuries",
+      "Recovery"
+    ],
+    "precautions":"Use protective equipment, follow safety rules, and avoid playing through significant pain.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":31,
+    "dataset":"Sports_Dataset",
+    "category":"Muscle Strains",
+    "subtopic":"Hamstring Strain",
+    "question":"What is a hamstring strain and why is it common in athletes?",
+    "answer":"A hamstring strain is an injury involving stretching or tearing of muscles at the back of the thigh. It commonly occurs during sprinting, jumping, or sudden acceleration. Symptoms include pain, muscle tightness, swelling, and difficulty running or performing explosive movements.",
+    "keywords":[
+      "hamstring strain",
+      "muscle injury",
+      "thigh injury",
+      "sports injury"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Muscle Injuries",
+      "Running Injuries",
+      "Athletic Rehabilitation"
+    ],
+    "precautions":"Warm up properly, improve flexibility, strengthen hamstring muscles, and increase training intensity gradually.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":32,
+    "dataset":"Sports_Dataset",
+    "category":"Muscle Strains",
+    "subtopic":"Quadriceps Strain",
+    "question":"What causes a quadriceps strain in sports activities?",
+    "answer":"A quadriceps strain occurs when muscles at the front of the thigh are overstretched or torn. It commonly happens during sprinting, kicking, or sudden changes in movement. Athletes may experience pain, weakness, swelling, and difficulty performing activities involving leg extension.",
+    "keywords":[
+      "quadriceps strain",
+      "thigh muscle",
+      "sports injury",
+      "muscle tear"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Muscle Strains",
+      "Leg Injuries",
+      "Sports Recovery"
+    ],
+    "precautions":"Maintain muscle flexibility, perform proper warm-ups, and avoid sudden increases in exercise intensity.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":33,
+    "dataset":"Sports_Dataset",
+    "category":"Muscle Strains",
+    "subtopic":"Calf Muscle Strain",
+    "question":"What is a calf muscle strain and how does it affect athletes?",
+    "answer":"A calf muscle strain involves injury to muscles located at the back of the lower leg. It commonly occurs during running, jumping, or sudden acceleration. Symptoms include sharp pain, stiffness, swelling, and reduced ability to push off the foot during sports activities.",
+    "keywords":[
+      "calf strain",
+      "lower leg injury",
+      "muscle tear",
+      "sports injury"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Lower Limb Injuries",
+      "Muscle Recovery",
+      "Running Injuries"
+    ],
+    "precautions":"Stretch regularly, strengthen calf muscles, and avoid intense activity without proper preparation.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":34,
+    "dataset":"Sports_Dataset",
+    "category":"Muscle Strains",
+    "subtopic":"Groin Strain",
+    "question":"What is a groin strain and which athletes are at risk?",
+    "answer":"A groin strain is an injury to muscles on the inner side of the thigh. It commonly affects athletes involved in football, hockey, and sports requiring quick direction changes. Symptoms include pain, tenderness, weakness, and difficulty with running or side movements.",
+    "keywords":[
+      "groin strain",
+      "inner thigh injury",
+      "muscle injury",
+      "sports injury"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Muscle Injuries",
+      "Football Injuries",
+      "Rehabilitation"
+    ],
+    "precautions":"Improve flexibility, strengthen hip muscles, and perform sport-specific warm-up exercises.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":35,
+    "dataset":"Sports_Dataset",
+    "category":"Muscle Strains",
+    "subtopic":"Back Muscle Strain",
+    "question":"What causes back muscle strains in athletes?",
+    "answer":"A back muscle strain occurs when muscles or tendons supporting the spine are overstretched or torn. It can result from heavy lifting, improper techniques, or sudden movements during sports. Symptoms include back pain, stiffness, muscle spasms, and reduced mobility.",
+    "keywords":[
+      "back strain",
+      "muscle injury",
+      "sports injury",
+      "spine support"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Muscle Strains",
+      "Back Injuries",
+      "Sports Rehabilitation"
+    ],
+    "precautions":"Use proper lifting techniques, strengthen core muscles, and maintain good posture during activities.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":36,
+    "dataset":"Sports_Dataset",
+    "category":"Muscle Strains",
+    "subtopic":"Hip Flexor Strain",
+    "question":"What is a hip flexor strain and how does it affect athletes?",
+    "answer":"A hip flexor strain is an injury to muscles responsible for lifting the leg and moving the hip. It commonly occurs during sprinting, kicking, or sudden movements. Symptoms include pain at the front of the hip, stiffness, weakness, and difficulty performing athletic activities.",
+    "keywords":[
+      "hip flexor strain",
+      "muscle injury",
+      "sports injury",
+      "hip pain"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Muscle Injuries",
+      "Lower Body Training",
+      "Sports Rehabilitation"
+    ],
+    "precautions":"Perform proper warm-ups, improve hip flexibility, strengthen supporting muscles, and avoid sudden intense movements.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":37,
+    "dataset":"Sports_Dataset",
+    "category":"Muscle Strains",
+    "subtopic":"Calf Muscle Tear",
+    "question":"What is a calf muscle tear and what causes it?",
+    "answer":"A calf muscle tear occurs when muscle fibers in the lower leg are damaged due to excessive force or overstretching. It commonly happens during sprinting or jumping activities. Symptoms include sudden pain, swelling, bruising, and difficulty walking or running.",
+    "keywords":[
+      "calf tear",
+      "muscle damage",
+      "lower leg injury",
+      "sports injury"
+    ],
+    "difficulty":"Advanced",
+    "related_topics":[
+      "Muscle Strains",
+      "Running Injuries",
+      "Athlete Recovery"
+    ],
+    "precautions":"Increase exercise intensity gradually, maintain flexibility, and strengthen calf muscles regularly.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":38,
+    "dataset":"Sports_Dataset",
+    "category":"Muscle Strains",
+    "subtopic":"Abdominal Muscle Strain",
+    "question":"What is an abdominal muscle strain in athletes?",
+    "answer":"An abdominal muscle strain is an injury caused by overstretching or tearing muscles in the abdomen. It can occur during twisting movements, throwing, or intense core exercises. Athletes may experience abdominal pain, muscle tightness, and discomfort while performing sports movements.",
+    "keywords":[
+      "abdominal strain",
+      "core injury",
+      "muscle strain",
+      "sports injury"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Core Training",
+      "Muscle Injuries",
+      "Sports Rehabilitation"
+    ],
+    "precautions":"Strengthen core muscles, use proper exercise techniques, and avoid excessive training without recovery.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":39,
+    "dataset":"Sports_Dataset",
+    "category":"Muscle Strains",
+    "subtopic":"Neck Muscle Strain",
+    "question":"What causes neck muscle strains during sports activities?",
+    "answer":"A neck muscle strain occurs when muscles supporting the neck are overstretched or injured. It commonly happens due to sudden movements, collisions, or improper techniques in sports. Symptoms include neck pain, stiffness, reduced movement, and discomfort during physical activity.",
+    "keywords":[
+      "neck strain",
+      "muscle injury",
+      "sports trauma",
+      "neck pain"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Muscle Injuries",
+      "Sports Trauma",
+      "Recovery"
+    ],
+    "precautions":"Maintain proper posture, strengthen neck muscles, and use protective equipment in contact sports.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":40,
+    "dataset":"Sports_Dataset",
+    "category":"Muscle Strains",
+    "subtopic":"Shoulder Muscle Strain",
+    "question":"What is a shoulder muscle strain and how can athletes prevent it?",
+    "answer":"A shoulder muscle strain occurs when muscles around the shoulder are overstretched or torn due to excessive force or repetitive activity. It is common in throwing and lifting sports. Symptoms include pain, weakness, stiffness, and reduced shoulder movement during activities.",
+    "keywords":[
+      "shoulder strain",
+      "muscle injury",
+      "sports injury",
+      "shoulder pain"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Shoulder Injuries",
+      "Muscle Recovery",
+      "Strength Training"
+    ],
+    "precautions":"Perform shoulder warm-ups, strengthen muscles gradually, and avoid repetitive movements without rest.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":41,
+    "dataset":"Sports_Dataset",
+    "category":"Tendon Injuries",
+    "subtopic":"Achilles Tendinitis",
+    "question":"What is Achilles tendinitis and why does it affect athletes?",
+    "answer":"Achilles tendinitis is inflammation of the Achilles tendon connecting calf muscles to the heel bone. It commonly occurs due to repetitive running, jumping, or excessive training. Athletes may experience heel pain, stiffness, swelling, and difficulty performing activities that involve pushing off the foot.",
+    "keywords":[
+      "Achilles tendinitis",
+      "tendon inflammation",
+      "heel pain",
+      "sports injury"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Tendon Injuries",
+      "Running Injuries",
+      "Ankle Rehabilitation"
+    ],
+    "precautions":"Increase training gradually, maintain calf flexibility, and strengthen lower leg muscles regularly.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":42,
+    "dataset":"Sports_Dataset",
+    "category":"Tendon Injuries",
+    "subtopic":"Tennis Elbow",
+    "question":"What is tennis elbow and how does it develop?",
+    "answer":"Tennis elbow is an overuse injury affecting tendons on the outer side of the elbow. It commonly develops from repetitive gripping, lifting, or racket movements. Symptoms include elbow pain, weakness, and discomfort while performing activities involving wrist and forearm movements.",
+    "keywords":[
+      "tennis elbow",
+      "tendon injury",
+      "elbow pain",
+      "overuse injury"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Tendon Disorders",
+      "Racket Sports",
+      "Rehabilitation"
+    ],
+    "precautions":"Use proper technique, strengthen forearm muscles, and avoid repetitive movements without adequate rest.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":43,
+    "dataset":"Sports_Dataset",
+    "category":"Tendon Injuries",
+    "subtopic":"Golfer's Elbow",
+    "question":"What is golfer's elbow and what causes it?",
+    "answer":"Golfer's elbow is a tendon injury affecting the inner side of the elbow due to repeated wrist and forearm movements. It commonly occurs in golfers, throwers, and weightlifters. Symptoms include inner elbow pain, tenderness, weakness, and discomfort during gripping activities.",
+    "keywords":[
+      "golfer's elbow",
+      "elbow tendon",
+      "sports injury",
+      "overuse injury"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Tendon Injuries",
+      "Elbow Rehabilitation",
+      "Sports Medicine"
+    ],
+    "precautions":"Improve technique, strengthen forearm muscles, and avoid excessive repetitive training.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":44,
+    "dataset":"Sports_Dataset",
+    "category":"Tendon Injuries",
+    "subtopic":"Patellar Tendon Injury",
+    "question":"What is a patellar tendon injury and how does it affect athletes?",
+    "answer":"A patellar tendon injury affects the tendon connecting the kneecap to the shin bone. It commonly occurs due to repeated jumping, running, or heavy loading activities. Athletes may experience pain below the kneecap, stiffness, swelling, and reduced ability to perform explosive movements.",
+    "keywords":[
+      "patellar tendon",
+      "jumper's knee",
+      "knee tendon",
+      "sports injury"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Knee Injuries",
+      "Tendon Rehabilitation",
+      "Jumping Sports"
+    ],
+    "precautions":"Strengthen leg muscles, maintain flexibility, and avoid sudden increases in training intensity.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":45,
+    "dataset":"Sports_Dataset",
+    "category":"Tendon Injuries",
+    "subtopic":"Rotator Cuff Tendon Injury",
+    "question":"What is a rotator cuff tendon injury in athletes?",
+    "answer":"A rotator cuff tendon injury involves damage or irritation of tendons stabilizing the shoulder joint. It commonly affects athletes performing repeated overhead movements such as swimming, throwing, and tennis. Symptoms include shoulder pain, weakness, reduced movement, and difficulty performing upper-body activities.",
+    "keywords":[
+      "rotator cuff",
+      "shoulder tendon",
+      "sports injury",
+      "overuse injury"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Shoulder Injuries",
+      "Tendon Disorders",
+      "Sports Rehabilitation"
+    ],
+    "precautions":"Perform shoulder strengthening exercises, maintain proper posture, and avoid excessive overhead stress.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":46,
+    "dataset":"Sports_Dataset",
+    "category":"Tendon Injuries",
+    "subtopic":"De Quervain's Tendinitis",
+    "question":"What is De Quervain's tendinitis and how does it affect athletes?",
+    "answer":"De Quervain's tendinitis is inflammation of tendons on the thumb side of the wrist. It commonly occurs due to repetitive gripping, lifting, or racket sports activities. Symptoms include wrist pain, swelling, tenderness, and difficulty performing movements involving the thumb and hand.",
+    "keywords":[
+      "De Quervain's tendinitis",
+      "wrist tendon",
+      "overuse injury",
+      "sports injury"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Tendon Disorders",
+      "Wrist Injuries",
+      "Repetitive Stress Injuries"
+    ],
+    "precautions":"Avoid repetitive wrist movements, improve grip techniques, and perform stretching exercises regularly.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":47,
+    "dataset":"Sports_Dataset",
+    "category":"Tendon Injuries",
+    "subtopic":"Wrist Tendinitis",
+    "question":"What causes wrist tendinitis in athletes?",
+    "answer":"Wrist tendinitis is inflammation of tendons around the wrist caused by repetitive stress, excessive training, or improper techniques. It commonly affects athletes involved in tennis, gymnastics, and weightlifting. Symptoms include wrist pain, stiffness, swelling, and reduced grip strength during activities.",
+    "keywords":[
+      "wrist tendinitis",
+      "tendon inflammation",
+      "wrist pain",
+      "sports injury"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Overuse Injuries",
+      "Tendon Rehabilitation",
+      "Hand Injuries"
+    ],
+    "precautions":"Use proper techniques, strengthen wrist muscles, and allow adequate recovery between training sessions.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":48,
+    "dataset":"Sports_Dataset",
+    "category":"Tendon Injuries",
+    "subtopic":"Quadriceps Tendon Injury",
+    "question":"What is a quadriceps tendon injury and what causes it?",
+    "answer":"A quadriceps tendon injury affects the tendon connecting thigh muscles to the kneecap. It can occur due to sudden force, jumping, or excessive strain during sports activities. Symptoms include pain above the kneecap, swelling, weakness, and difficulty extending the knee.",
+    "keywords":[
+      "quadriceps tendon",
+      "knee tendon",
+      "sports injury",
+      "tendon tear"
+    ],
+    "difficulty":"Advanced",
+    "related_topics":[
+      "Knee Injuries",
+      "Tendon Tears",
+      "Sports Rehabilitation"
+    ],
+    "precautions":"Strengthen thigh muscles, maintain flexibility, and avoid sudden increases in training intensity.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":49,
+    "dataset":"Sports_Dataset",
+    "category":"Tendon Injuries",
+    "subtopic":"Hamstring Tendon Injury",
+    "question":"What is a hamstring tendon injury and why does it occur?",
+    "answer":"A hamstring tendon injury involves damage to tendons connecting thigh muscles to bones near the hip or knee. It commonly occurs during sprinting, sudden acceleration, or intense sports activities. Symptoms include pain, weakness, stiffness, and reduced ability to perform running movements.",
+    "keywords":[
+      "hamstring tendon",
+      "tendon injury",
+      "sports injury",
+      "leg injury"
+    ],
+    "difficulty":"Advanced",
+    "related_topics":[
+      "Muscle Injuries",
+      "Running Injuries",
+      "Athlete Recovery"
+    ],
+    "precautions":"Maintain hamstring flexibility, strengthen leg muscles, and perform proper warm-up exercises before sports.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":50,
+    "dataset":"Sports_Dataset",
+    "category":"Tendon Injuries",
+    "subtopic":"Tendon Overuse Injury",
+    "question":"What are tendon overuse injuries and how can athletes prevent them?",
+    "answer":"Tendon overuse injuries occur when repetitive stress causes irritation and damage to tendons over time. They are common in athletes with intense training schedules. Symptoms include persistent pain, stiffness, and reduced performance. Proper rest, training balance, and strengthening exercises help prevent these injuries.",
+    "keywords":[
+      "tendon overuse",
+      "sports injury",
+      "repetitive stress",
+      "tendon pain"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Overuse Injuries",
+      "Sports Training",
+      "Injury Prevention"
+    ],
+    "precautions":"Follow gradual training progression, include rest days, and maintain proper exercise techniques.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":51,
+    "dataset":"Sports_Dataset",
+    "category":"Warm-up",
+    "subtopic":"Dynamic Stretching",
+    "question":"What is dynamic stretching and why is it important before sports?",
+    "answer":"Dynamic stretching involves controlled movements that prepare muscles and joints for physical activity. It improves flexibility, blood circulation, and movement range before exercise. Athletes use dynamic stretches such as leg swings and arm circles to reduce injury risk and improve performance.",
+    "keywords":[
+      "dynamic stretching",
+      "warm-up",
+      "flexibility",
+      "sports preparation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Injury Prevention",
+      "Mobility Training",
+      "Athletic Performance"
+    ],
+    "precautions":"Perform controlled movements and avoid overstretching before intense activities.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":52,
+    "dataset":"Sports_Dataset",
+    "category":"Warm-up",
+    "subtopic":"Cardiovascular Warm-up",
+    "question":"Why is cardiovascular warm-up necessary before exercise?",
+    "answer":"A cardiovascular warm-up gradually increases heart rate, body temperature, and blood flow to muscles before exercise. Activities like jogging or cycling prepare the body for intense movements. It helps improve performance, reduce stiffness, and lower the chances of muscle-related injuries.",
+    "keywords":[
+      "cardio warm-up",
+      "exercise preparation",
+      "blood flow",
+      "sports training"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Fitness Training",
+      "Injury Prevention",
+      "Exercise Physiology"
+    ],
+    "precautions":"Start slowly and gradually increase intensity according to activity requirements.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":53,
+    "dataset":"Sports_Dataset",
+    "category":"Warm-up",
+    "subtopic":"Sport Specific Warm-up",
+    "question":"What is a sport-specific warm-up and why do athletes perform it?",
+    "answer":"A sport-specific warm-up includes movements that closely match the activities performed during a sport. It prepares relevant muscles, improves coordination, and enhances performance. For example, football players practice passing drills while swimmers perform swimming-related movements before competition.",
+    "keywords":[
+      "sport-specific warm-up",
+      "athlete preparation",
+      "performance",
+      "training"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Sports Training",
+      "Performance Enhancement",
+      "Injury Prevention"
+    ],
+    "precautions":"Choose warm-up exercises based on sport demands and avoid unnecessary fatigue before competition.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":54,
+    "dataset":"Sports_Dataset",
+    "category":"Warm-up",
+    "subtopic":"Mobility Exercises",
+    "question":"How do mobility exercises help athletes during warm-up?",
+    "answer":"Mobility exercises improve joint movement, flexibility, and body control before sports activities. They help athletes perform movements efficiently and reduce stiffness. Common exercises include hip rotations, shoulder movements, and ankle mobility drills that prepare joints for physical demands.",
+    "keywords":[
+      "mobility exercises",
+      "joint movement",
+      "warm-up",
+      "flexibility"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Stretching",
+      "Athletic Performance",
+      "Injury Prevention"
+    ],
+    "precautions":"Perform exercises with proper technique and avoid forcing uncomfortable movements.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":55,
+    "dataset":"Sports_Dataset",
+    "category":"Warm-up",
+    "subtopic":"Activation Exercises",
+    "question":"What are activation exercises and how do they benefit athletes?",
+    "answer":"Activation exercises are movements designed to engage specific muscles before physical activity. They improve muscle function, coordination, and stability. Athletes commonly activate glutes, core, and shoulder muscles to prepare the body and improve performance during sports activities.",
+    "keywords":[
+      "activation exercises",
+      "muscle activation",
+      "warm-up",
+      "sports performance"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Strength Training",
+      "Mobility",
+      "Injury Prevention"
+    ],
+    "precautions":"Use controlled movements and avoid excessive fatigue before training or competition.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":56,
+    "dataset":"Sports_Dataset",
+    "category":"Warm-up",
+    "subtopic":"Foam Rolling",
+    "question":"How does foam rolling help athletes before sports activities?",
+    "answer":"Foam rolling is a self-massage technique used to improve muscle flexibility, reduce stiffness, and increase blood circulation before exercise. It helps prepare muscles for movement and may improve mobility. Athletes commonly use foam rolling on legs, back, and hips during warm-up routines.",
+    "keywords":[
+      "foam rolling",
+      "muscle flexibility",
+      "warm-up",
+      "mobility"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Recovery",
+      "Mobility Training",
+      "Injury Prevention"
+    ],
+    "precautions":"Avoid applying excessive pressure and do not roll directly over injured areas.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":57,
+    "dataset":"Sports_Dataset",
+    "category":"Warm-up",
+    "subtopic":"Joint Preparation",
+    "question":"Why is joint preparation important before athletic performance?",
+    "answer":"Joint preparation exercises improve movement quality by increasing mobility, stability, and coordination around joints. They help athletes prepare knees, shoulders, ankles, and hips for physical demands. Proper joint preparation reduces stiffness and supports safer performance during training or competition.",
+    "keywords":[
+      "joint preparation",
+      "mobility",
+      "warm-up",
+      "athletic performance"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Mobility Exercises",
+      "Injury Prevention",
+      "Sports Training"
+    ],
+    "precautions":"Perform controlled movements and avoid forcing joints beyond comfortable ranges.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":58,
+    "dataset":"Sports_Dataset",
+    "category":"Warm-up",
+    "subtopic":"Reaction Training Warm-up",
+    "question":"What is reaction training warm-up and why do athletes use it?",
+    "answer":"Reaction training warm-ups include quick movements that improve coordination, balance, and response speed before sports. They prepare athletes for unpredictable situations during games. These drills are especially useful in football, basketball, and other sports requiring fast decision-making.",
+    "keywords":[
+      "reaction training",
+      "coordination",
+      "warm-up",
+      "sports performance"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Agility Training",
+      "Performance Enhancement",
+      "Sports Skills"
+    ],
+    "precautions":"Perform drills with proper technique and avoid excessive intensity before competition.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":59,
+    "dataset":"Sports_Dataset",
+    "category":"Warm-up",
+    "subtopic":"Agility Warm-up Drills",
+    "question":"How do agility warm-up drills benefit athletes?",
+    "answer":"Agility warm-up drills prepare athletes for quick changes in direction, acceleration, and balance control. They improve coordination and movement efficiency before sports activities. Exercises such as ladder drills and cone movements help athletes perform better while reducing injury risks.",
+    "keywords":[
+      "agility drills",
+      "warm-up",
+      "coordination",
+      "sports training"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Athletic Performance",
+      "Speed Training",
+      "Injury Prevention"
+    ],
+    "precautions":"Focus on correct movement patterns and avoid performing drills when muscles are fatigued.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":60,
+    "dataset":"Sports_Dataset",
+    "category":"Warm-up",
+    "subtopic":"Warm-up Duration",
+    "question":"How long should an athlete perform a warm-up before exercise?",
+    "answer":"A proper warm-up usually lasts around 10 to 20 minutes depending on the sport, intensity, and athlete's condition. It should gradually increase body temperature and prepare muscles for activity. A balanced warm-up improves performance and reduces injury chances.",
+    "keywords":[
+      "warm-up duration",
+      "exercise preparation",
+      "sports training",
+      "injury prevention"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Warm-up Routine",
+      "Athletic Performance",
+      "Sports Safety"
+    ],
+    "precautions":"Avoid making warm-ups too intense and ensure enough preparation time before competition.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":61,
+    "dataset":"Sports_Dataset",
+    "category":"Recovery",
+    "subtopic":"Post Exercise Recovery",
+    "question":"Why is post exercise recovery important for athletes?",
+    "answer":"Post exercise recovery allows muscles to repair, restores energy levels, and prepares the body for future training sessions. Proper recovery includes rest, hydration, nutrition, and mobility exercises. It helps reduce fatigue, improve performance, and lower the risk of overuse injuries.",
+    "keywords":[
+      "recovery",
+      "post exercise",
+      "muscle repair",
+      "athlete performance"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Sports Nutrition",
+      "Injury Prevention",
+      "Training Management"
+    ],
+    "precautions":"Avoid excessive training without recovery periods and monitor signs of fatigue.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":62,
+    "dataset":"Sports_Dataset",
+    "category":"Recovery",
+    "subtopic":"Active Recovery",
+    "question":"What is active recovery and how does it benefit athletes?",
+    "answer":"Active recovery involves performing low-intensity activities after intense exercise to promote blood circulation and reduce muscle stiffness. Activities like walking, light cycling, and stretching help remove fatigue, improve flexibility, and support faster recovery between training sessions.",
+    "keywords":[
+      "active recovery",
+      "muscle recovery",
+      "low intensity exercise",
+      "sports training"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Recovery Methods",
+      "Mobility Training",
+      "Athlete Performance"
+    ],
+    "precautions":"Keep recovery activities light and avoid turning them into high-intensity workouts.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":63,
+    "dataset":"Sports_Dataset",
+    "category":"Recovery",
+    "subtopic":"Sleep Recovery",
+    "question":"How does sleep help athletes recover after training?",
+    "answer":"Sleep plays an important role in muscle repair, hormone regulation, and energy restoration after physical activity. Quality sleep helps athletes improve performance, maintain focus, and reduce injury risks. Poor sleep can increase fatigue and negatively affect recovery and training outcomes.",
+    "keywords":[
+      "sleep recovery",
+      "muscle repair",
+      "athlete recovery",
+      "performance"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Recovery",
+      "Sports Performance",
+      "Health Management"
+    ],
+    "precautions":"Maintain consistent sleep schedules and avoid reducing sleep during intense training periods.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":64,
+    "dataset":"Sports_Dataset",
+    "category":"Recovery",
+    "subtopic":"Hydration Recovery",
+    "question":"Why is hydration important during athlete recovery?",
+    "answer":"Hydration helps replace fluids lost during exercise and supports muscle function, circulation, and temperature regulation. Proper fluid intake after training improves recovery, reduces fatigue, and maintains physical performance. Athletes should replace fluids based on exercise intensity and environmental conditions.",
+    "keywords":[
+      "hydration",
+      "recovery",
+      "sports nutrition",
+      "fluid balance"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Sports Nutrition",
+      "Exercise Recovery",
+      "Athlete Health"
+    ],
+    "precautions":"Drink adequate fluids before, during, and after physical activities.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":65,
+    "dataset":"Sports_Dataset",
+    "category":"Recovery",
+    "subtopic":"Cold Therapy",
+    "question":"What is cold therapy and how does it support sports recovery?",
+    "answer":"Cold therapy involves applying cold treatments to reduce inflammation, swelling, and discomfort after physical activity or injury. Athletes commonly use ice packs or cold baths as part of recovery routines. It may help manage soreness and support the recovery process.",
+    "keywords":[
+      "cold therapy",
+      "ice treatment",
+      "muscle soreness",
+      "sports recovery"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Injury Management",
+      "Recovery Techniques",
+      "Sports Medicine"
+    ],
+    "precautions":"Avoid direct ice contact with skin and limit exposure duration to prevent skin damage.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":66,
+    "dataset":"Sports_Dataset",
+    "category":"Recovery",
+    "subtopic":"Massage Therapy",
+    "question":"How does massage therapy help athletes during recovery?",
+    "answer":"Massage therapy helps athletes by reducing muscle tension, improving blood circulation, and supporting relaxation after intense physical activity. It may help decrease soreness, improve flexibility, and prepare muscles for future training sessions when combined with proper recovery methods.",
+    "keywords":[
+      "massage therapy",
+      "muscle recovery",
+      "sports recovery",
+      "muscle soreness"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Recovery Techniques",
+      "Muscle Health",
+      "Sports Therapy"
+    ],
+    "precautions":"Avoid massage on acute injuries, severe swelling, or areas with suspected tissue damage.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":67,
+    "dataset":"Sports_Dataset",
+    "category":"Recovery",
+    "subtopic":"Stretching Recovery",
+    "question":"Why is stretching important after sports activities?",
+    "answer":"Post-exercise stretching helps maintain flexibility, reduce muscle stiffness, and improve relaxation after physical activity. It allows muscles to return gradually to their normal state and supports recovery. Stretching should be performed gently without forcing uncomfortable movements.",
+    "keywords":[
+      "stretching",
+      "recovery",
+      "flexibility",
+      "muscle relaxation"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Mobility Training",
+      "Recovery Methods",
+      "Injury Prevention"
+    ],
+    "precautions":"Avoid aggressive stretching after intense exercise or when experiencing pain.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":68,
+    "dataset":"Sports_Dataset",
+    "category":"Recovery",
+    "subtopic":"Protein Intake Recovery",
+    "question":"How does protein intake support athlete recovery?",
+    "answer":"Protein intake supports muscle repair and growth after exercise by providing essential amino acids required for recovery. Athletes need adequate protein along with balanced nutrition to restore damaged muscle tissues and maintain performance during regular training schedules.",
+    "keywords":[
+      "protein intake",
+      "muscle repair",
+      "sports nutrition",
+      "recovery"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Nutrition",
+      "Muscle Recovery",
+      "Athlete Performance"
+    ],
+    "precautions":"Maintain a balanced diet and avoid excessive supplementation without professional advice.",
+    "consultation":"Consult a qualified sports nutritionist or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":69,
+    "dataset":"Sports_Dataset",
+    "category":"Recovery",
+    "subtopic":"Recovery After Injury",
+    "question":"Why is proper recovery important after a sports injury?",
+    "answer":"Proper recovery after a sports injury allows damaged tissues to heal and helps athletes safely return to activity. It includes rehabilitation exercises, rest, gradual training progression, and monitoring symptoms. Returning too early may increase the risk of repeated injuries.",
+    "keywords":[
+      "injury recovery",
+      "rehabilitation",
+      "sports injury",
+      "return to play"
+    ],
+    "difficulty":"Advanced",
+    "related_topics":[
+      "Sports Rehabilitation",
+      "Injury Prevention",
+      "Athlete Safety"
+    ],
+    "precautions":"Follow rehabilitation plans and avoid returning to sports before complete recovery.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper diagnosis and treatment.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":70,
+    "dataset":"Sports_Dataset",
+    "category":"Recovery",
+    "subtopic":"Recovery Monitoring",
+    "question":"What is recovery monitoring and why is it useful for athletes?",
+    "answer":"Recovery monitoring involves tracking fatigue, soreness, sleep quality, and performance changes to understand an athlete's recovery status. It helps prevent overtraining, optimize training schedules, and identify early signs of stress or possible injuries.",
+    "keywords":[
+      "recovery monitoring",
+      "fatigue management",
+      "overtraining",
+      "sports performance"
+    ],
+    "difficulty":"Advanced",
+    "related_topics":[
+      "Training Management",
+      "Athlete Health",
+      "Injury Prevention"
+    ],
+    "precautions":"Monitor recovery regularly and adjust training intensity according to body signals.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":71,
+    "dataset":"Sports_Dataset",
+    "category":"Injury Prevention",
+    "subtopic":"Strength Training",
+    "question":"How does strength training help prevent sports injuries?",
+    "answer":"Strength training improves muscle strength, joint stability, and body control, helping athletes handle physical demands safely. Strong muscles support joints, reduce stress on ligaments and tendons, and lower the risk of common sports injuries during training and competition.",
+    "keywords":[
+      "strength training",
+      "injury prevention",
+      "muscle strength",
+      "sports safety"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Fitness Training",
+      "Sports Performance",
+      "Muscle Health"
+    ],
+    "precautions":"Use proper techniques, increase weights gradually, and allow enough recovery between sessions.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":72,
+    "dataset":"Sports_Dataset",
+    "category":"Injury Prevention",
+    "subtopic":"Proper Technique",
+    "question":"Why is proper technique important for preventing sports injuries?",
+    "answer":"Proper technique ensures that movements are performed safely and efficiently, reducing unnecessary stress on muscles, joints, and connective tissues. Incorrect techniques can increase injury risks, especially during lifting, running, jumping, or repetitive sports activities.",
+    "keywords":[
+      "proper technique",
+      "injury prevention",
+      "sports training",
+      "movement safety"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Sports Training",
+      "Athlete Safety",
+      "Performance Improvement"
+    ],
+    "precautions":"Learn correct movements from qualified coaches and avoid performing exercises with poor form.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":73,
+    "dataset":"Sports_Dataset",
+    "category":"Injury Prevention",
+    "subtopic":"Balanced Training Program",
+    "question":"How does a balanced training program prevent injuries?",
+    "answer":"A balanced training program combines strength, flexibility, endurance, and recovery activities to maintain overall fitness. It prevents excessive stress on specific muscles and reduces the risk of overuse injuries caused by repetitive training without adequate variation.",
+    "keywords":[
+      "balanced training",
+      "injury prevention",
+      "overuse injuries",
+      "sports fitness"
+    ],
+    "difficulty":"Intermediate",
+    "related_topics":[
+      "Training Planning",
+      "Recovery",
+      "Athletic Performance"
+    ],
+    "precautions":"Avoid sudden increases in training volume and include proper rest periods.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":74,
+    "dataset":"Sports_Dataset",
+    "category":"Injury Prevention",
+    "subtopic":"Protective Equipment",
+    "question":"How does protective equipment reduce sports injuries?",
+    "answer":"Protective equipment helps reduce the impact of collisions and protects vulnerable body parts during sports activities. Items such as helmets, pads, braces, and proper footwear can lower injury risks when used correctly according to sport requirements.",
+    "keywords":[
+      "protective equipment",
+      "sports safety",
+      "injury prevention",
+      "sports gear"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Athlete Safety",
+      "Sports Rules",
+      "Injury Management"
+    ],
+    "precautions":"Use properly fitted equipment and replace damaged protective gear regularly.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":75,
+    "dataset":"Sports_Dataset",
+    "category":"Injury Prevention",
+    "subtopic":"Flexibility Training",
+    "question":"Why is flexibility training important for injury prevention?",
+    "answer":"Flexibility training improves range of motion and allows muscles and joints to move efficiently during sports activities. Good flexibility can reduce muscle tightness, improve movement quality, and decrease the chances of strains and other soft tissue injuries.",
+    "keywords":[
+      "flexibility training",
+      "stretching",
+      "injury prevention",
+      "mobility"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Warm-up",
+      "Mobility Training",
+      "Muscle Health"
+    ],
+    "precautions":"Perform stretches safely and avoid forcing movements beyond comfortable limits.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":76,
+    "dataset":"Sports_Dataset",
+    "category":"Injury Prevention",
+    "subtopic":"Rest and Recovery",
+    "question":"Why are rest and recovery important for preventing sports injuries?",
+    "answer":"Rest and recovery allow muscles, tendons, and joints to repair after physical activity. Adequate recovery prevents fatigue-related mistakes, reduces overuse injuries, and helps athletes maintain consistent performance during training and competition.",
+    "keywords":[
+      "rest",
+      "recovery",
+      "injury prevention",
+      "athlete health"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Recovery",
+      "Training Management",
+      "Sports Performance"
+    ],
+    "precautions":"Avoid continuous high-intensity training without proper rest periods.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":77,
+    "dataset":"Sports_Dataset",
+    "category":"Injury Prevention",
+    "subtopic":"Proper Footwear",
+    "question":"How does proper footwear help prevent sports injuries?",
+    "answer":"Proper footwear provides support, cushioning, and stability required for specific sports activities. It helps reduce stress on feet, ankles, knees, and joints while improving movement efficiency. Wearing unsuitable shoes can increase the risk of discomfort and lower limb injuries.",
+    "keywords":[
+      "sports footwear",
+      "injury prevention",
+      "foot support",
+      "athlete safety"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Foot Injuries",
+      "Ankle Health",
+      "Sports Equipment"
+    ],
+    "precautions":"Choose footwear according to sport type, surface, and individual requirements.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":78,
+    "dataset":"Sports_Dataset",
+    "category":"Injury Prevention",
+    "subtopic":"Hydration Management",
+    "question":"How does hydration help prevent sports injuries?",
+    "answer":"Proper hydration supports muscle function, temperature regulation, and physical performance during exercise. Dehydration can increase fatigue, reduce coordination, and raise the risk of muscle cramps and heat-related problems. Athletes should maintain fluid balance before, during, and after activities.",
+    "keywords":[
+      "hydration",
+      "injury prevention",
+      "muscle cramps",
+      "sports safety"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Sports Nutrition",
+      "Recovery",
+      "Athlete Health"
+    ],
+    "precautions":"Drink sufficient fluids based on exercise intensity and environmental conditions.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":79,
+    "dataset":"Sports_Dataset",
+    "category":"Injury Prevention",
+    "subtopic":"Load Management",
+    "question":"What is load management and why is it important for athletes?",
+    "answer":"Load management involves controlling training intensity, duration, and frequency to prevent excessive physical stress. It helps athletes avoid overtraining, reduce injury risks, and maintain performance throughout a season by balancing workload and recovery.",
+    "keywords":[
+      "load management",
+      "training intensity",
+      "injury prevention",
+      "athlete performance"
+    ],
+    "difficulty":"Advanced",
+    "related_topics":[
+      "Training Planning",
+      "Recovery",
+      "Sports Science"
+    ],
+    "precautions":"Increase workload gradually and monitor fatigue levels regularly.",
+    "consultation":"Consult a qualified sports medicine doctor or sports trainer for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  },
+  {
+    "id":80,
+    "dataset":"Sports_Dataset",
+    "category":"Injury Prevention",
+    "subtopic":"Warm-up and Cool-down Routine",
+    "question":"Why are warm-up and cool-down routines important for injury prevention?",
+    "answer":"Warm-up and cool-down routines prepare muscles for activity and help the body return gradually to a resting state. Warm-ups improve mobility and performance, while cool-downs support recovery and reduce stiffness after exercise.",
+    "keywords":[
+      "warm-up",
+      "cool-down",
+      "injury prevention",
+      "sports routine"
+    ],
+    "difficulty":"Beginner",
+    "related_topics":[
+      "Recovery",
+      "Mobility Training",
+      "Athletic Performance"
+    ],
+    "precautions":"Perform routines consistently and adjust exercises according to sport requirements.",
+    "consultation":"Consult a qualified sports medicine doctor or healthcare professional for proper guidance.",
+    "source":"Synthetic",
+    "created_at":"2026-07-24"
+  }
+]
