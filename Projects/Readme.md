@@ -33,7 +33,6 @@ In addition to answering medical queries, MedFit AI includes integrated **BMI Ca
 * HTML
 * CSS
 * JavaScript
-* Bootstrap
 
 ### Backend
 
@@ -55,49 +54,6 @@ In addition to answering medical queries, MedFit AI includes integrated **BMI Ca
 * JSON
 * PDF
 * Recursive Text Chunking
-
----
-
-## 📂 Project Structure
-
-```text
-MedFit-AI/
-│
-├── data/
-│   ├── JSON dataset/
-│   └── PDF dataset/
-│
-├── database/
-│   └── chroma/
-│
-├── rag/
-│   ├── loader.py
-│   ├── cleaner.py
-│   ├── chunker.py
-│   ├── embedding.py
-│   ├── vectordb.py
-│   ├── retriever.py
-│   ├── prompt.py
-│   └── rag_chain.py
-│
-├── routes/
-│   ├── chatbot.py
-│   ├── bmi.py
-│   └── water.py
-│
-├── static/
-│   ├── css/
-│   └── js/
-│
-├── templates/
-│   ├── index.html
-│   └── chat.html
-│
-├── app.py
-├── config.py
-├── requirements.txt
-└── README.md
-```
 
 ---
 
