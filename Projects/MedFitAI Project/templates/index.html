@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedFit AI - AI-Powered Healthcare Assistant</title>
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/landing.css') }}">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- ================= NAVBAR ================= -->
+    <nav class="navbar">
+        <div class="logo">
+            <div class="logo-icon">
+                <i class="fa-solid fa-heart-pulse"></i>
+            </div>
+            <span>MedFit <span class="accent-text">AI</span></span>
+        </div>
+
+        <ul class="nav-links">
+            <li><a href="#features">Features</a></li>
+            <li><a href="#how-it-works">How It Works</a></li>
+            <li><a href="#about">About</a></li>
+        </ul>
+
+        <div class="nav-actions">
+            <a href="/chatbot" class="btn primary-btn navbar-btn">
+                <span>Launch Assistant</span>
+                <i class="fa-solid fa-arrow-right"></i>
+            </a>
+        </div>
+    </nav>
+
+    <!-- ================= HERO ================= -->
+    <section class="hero">
+        <div class="hero-content">
+            <div class="hero-badge">
+                <i class="fa-solid fa-shield-halved"></i>
+                <span>100% Verified RAG Knowledge Base</span>
+            </div>
+
+            <h1>Smart Healthcare Guidance Powered by <span class="gradient-text">Medical AI</span></h1>
+
+            <p>
+                Get accurate, instant insights on medical conditions, customized nutrition, sports injury recovery,
+                physiotherapy, and yoga routines—backed by trusted medical data.
+            </p>
+
+            <div class="hero-buttons">
+                <a href="/chatbot" class="btn primary-btn btn-lg">
+                    <i class="fa-solid fa-comments"></i>
+                    Start Free Consultation
+                </a>
+                <a href="#features" class="btn secondary-btn btn-lg">
+                    <i class="fa-solid fa-compass"></i>
+                    Explore Tools
+                </a>
+            </div>
+
+            <div class="hero-stats">
+                <div class="stat-item">
+                    <h4>RAG Powered</h4>
+                    <p>Zero Hallucinations</p>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat-item">
+                    <h4>5-in-1</h4>
+                    <p>Health Modules</p>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat-item">
+                    <h4>Instant</h4>
+                    <p>Health Calculators</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="hero-visual">
+            <div class="visual-card-bg"></div>
+
+            <div class="floating-badge badge-top">
+                <i class="fa-solid fa-circle-check"></i>
+                <div>
+                    <strong>Verified Context</strong>
+                    <!-- <small>Evidence-Based Answers</small> -->
+                </div>
+            </div>
+
+            <div class="floating-badge badge-bottom">
+                <i class="fa-solid fa-bolt"></i>
+                <div>
+                    <!-- <strong>Groq Llama 3.3</strong> -->
+                    <strong>Real-time Response</strong>
+                </div>
+            </div>
+
+            <div class="visual-icon-box">
+                <i class="fa-solid fa-user-doctor"></i>
+            </div>
+        </div>
+    </section>
+
+    <!-- ================= FEATURES ================= -->
+    <section id="features" class="features">
+        <div class="section-header">
+            <span class="section-tag">Features</span>
+            <h2>Comprehensive Health Capabilities</h2>
+            <p>Everything you need for daily wellness, active rehabilitation, and intelligent query responses.</p>
+        </div>
+
+        <div class="feature-container">
+            <div class="card">
+                <div class="card-icon">
+                    <i class="fa-solid fa-robot"></i>
+                </div>
+                <h3>Medical AI Assistant</h3>
+                <p>Ask health-related questions with confidence. Powered by vector search over curated datasets.</p>
+                <a href="/chatbot" class="card-link">
+                    Ask Question <i class="fa-solid fa-chevron-right"></i>
+                </a>
+            </div>
+
+            <div class="card">
+                <div class="card-icon">
+                    <i class="fa-solid fa-weight-scale"></i>
+                </div>
+                <h3>BMI Calculator</h3>
+                <p>Calculate your Body Mass Index score and receive tailored categorization in seconds.</p>
+                <a href="/chatbot" class="card-link">
+                    Open Calculator <i class="fa-solid fa-chevron-right"></i>
+                </a>
+            </div>
+
+            <div class="card">
+                <div class="card-icon">
+                    <i class="fa-solid fa-droplet"></i>
+                </div>
+                <h3>Water Hydration Tool</h3>
+                <p>Estimate recommended daily water target considering weight, activity level, and climate.</p>
+                <a href="/chatbot" class="card-link">
+                    Check Hydration <i class="fa-solid fa-chevron-right"></i>
+                </a>
+            </div>
+
+            <div class="card">
+                <div class="card-icon">
+                    <i class="fa-solid fa-dumbbell"></i>
+                </div>
+                <h3>Physiotherapy & Sports</h3>
+                <p>Access rehab exercises, joint recovery techniques, and mobility protocols.</p>
+                <a href="/chatbot" class="card-link">
+                    Explore Rehab <i class="fa-solid fa-chevron-right"></i>
+                </a>
+            </div>
+
+            <div class="card">
+                <div class="card-icon">
+                    <i class="fa-solid fa-spa"></i>
+                </div>
+                <h3>Yoga & Mindfulness</h3>
+                <p>Discover pose breakdowns, breathing techniques, and stress-reduction routines.</p>
+                <a href="/chatbot" class="card-link">
+                    View Routines <i class="fa-solid fa-chevron-right"></i>
+                </a>
+            </div>
+
+            <div class="card">
+                <div class="card-icon">
+                    <i class="fa-solid fa-utensils"></i>
+                </div>
+                <h3>Nutrition & Diet Guide</h3>
+                <p>Receive macronutrient breakdowns, meal ideas, and dietary tips tailored for wellness goals.</p>
+                <a href="/chatbot" class="card-link">
+                    Get Nutrition Tips <i class="fa-solid fa-chevron-right"></i>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- ================= HOW IT WORKS ================= -->
+    <section id="how-it-works" class="how-it-works">
+        <div class="section-header">
+            <span class="section-tag">Process</span>
+            <h2>How MedFit AI Works</h2>
+            <p>Combining modern language models with verified vector databases for reliable output.</p>
+        </div>
+
+        <div class="steps-grid">
+            <div class="step-card">
+                <div class="step-number">01</div>
+                <h3>Enter Your Query</h3>
+                <p>Type symptoms, questions about yoga postures, diet advice, or open one of our health tools.</p>
+            </div>
+
+            <div class="step-card">
+                <div class="step-number">02</div>
+                <h3>Vector Search (RAG)</h3>
+                <p>ChromaDB searches high-density embeddings from medical files to isolate verified facts.</p>
+            </div>
+
+            <div class="step-card">
+                <div class="step-number">03</div>
+                <h3>Clear Answer</h3>
+                <p>Llama 3.3 synthesizes a clear, helpful response strictly bound to verified information.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ================= ABOUT ================= -->
+    <section id="about" class="about-section">
+        <div class="about-container">
+            <h2>Built for Safety and Accuracy</h2>
+            <p>
+                MedFit AI is engineered using Flask, LangChain, ChromaDB, HuggingFace Embeddings, and Groq Llama 3.3.
+                By enforcing Retrieval-Augmented Generation, answers remain grounded strictly within approved reference texts.
+            </p>
+            <div class="tech-tags">
+                <span>Flask</span>
+                <span>LangChain</span>
+                <span>ChromaDB</span>
+                <span>HuggingFace</span>
+                <span>Groq Llama 3.3</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- ================= CTA BANNER ================= -->
+    <section class="cta-banner">
+        <div class="cta-content">
+            <h2>Ready to Consult Your AI Medical Assistant?</h2>
+            <p>Try out the chatbot or use our built-in BMI and Water calculators right now.</p>
+            <a href="/chatbot" class="btn primary-btn btn-lg cta-btn">
+                Launch MedFit AI Now
+                <i class="fa-solid fa-arrow-right"></i>
+            </a>
+        </div>
+    </section>
+
+    <!-- ================= FOOTER ================= -->
+    <footer>
+        <div class="footer-top">
+            <div class="footer-brand">
+                <div class="logo">
+                    <i class="fa-solid fa-heart-pulse"></i>
+                    <span>MedFit AI</span>
+                </div>
+                <p>Intelligent, ground-truth-focused health and fitness assistance.</p>
+            </div>
+
+            <div class="footer-links">
+                <h4>Modules</h4>
+                <ul>
+                    <li><a href="/chatbot">Medical Chatbot</a></li>
+                    <li><a href="/chatbot">BMI Calculator</a></li>
+                    <li><a href="/chatbot">Water Intake Tool</a></li>
+                    <li><a href="/chatbot">Physiotherapy</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <p>&copy; 2026 MedFit AI. Educational Healthcare Assistant.</p>
+        </div>
+    </footer>
+
+</body>
+
+</html>
